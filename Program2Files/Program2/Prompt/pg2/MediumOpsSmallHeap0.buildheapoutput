@@ -1,0 +1,21 @@
+{
+  "1": {
+    "key": 1136,
+    "leftChild": "2",
+    "rightChild": "3"
+  },
+  "2": {
+    "key": 0,
+    "parent": "1"
+  },
+  "3": {
+    "key": 408,
+    "parent": "1"
+  },
+  "metadata": {
+    "maxHeapSize": 4,
+    "max_size": 4,
+    "numOperations": 1000,
+    "size": 3
+  }
+}

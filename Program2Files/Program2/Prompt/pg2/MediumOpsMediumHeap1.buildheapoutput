@@ -1,0 +1,76 @@
+{
+  "1": {
+    "key": 4060,
+    "leftChild": "2",
+    "rightChild": "3"
+  },
+  "10": {
+    "key": 2241,
+    "parent": "5"
+  },
+  "11": {
+    "key": 2318,
+    "parent": "5"
+  },
+  "12": {
+    "key": 2669,
+    "parent": "6"
+  },
+  "13": {
+    "key": 2705,
+    "parent": "6"
+  },
+  "14": {
+    "key": 1,
+    "parent": "7"
+  },
+  "2": {
+    "key": 4058,
+    "leftChild": "4",
+    "parent": "1",
+    "rightChild": "5"
+  },
+  "3": {
+    "key": 3673,
+    "leftChild": "6",
+    "parent": "1",
+    "rightChild": "7"
+  },
+  "4": {
+    "key": 3581,
+    "leftChild": "8",
+    "parent": "2",
+    "rightChild": "9"
+  },
+  "5": {
+    "key": 2459,
+    "leftChild": "10",
+    "parent": "2",
+    "rightChild": "11"
+  },
+  "6": {
+    "key": 3631,
+    "leftChild": "12",
+    "parent": "3",
+    "rightChild": "13"
+  },
+  "7": {
+    "key": 2377,
+    "leftChild": "14",
+    "parent": "3"
+  },
+  "8": {
+    "key": 2558,
+    "parent": "4"
+  },
+  "9": {
+    "key": 2813,
+    "parent": "4"
+  },
+  "metadata": {
+    "maxHeapSize": 50,
+    "max_size": 50,
+    "numOperations": 1000,
+    "size": 14
+  }
+}

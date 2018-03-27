@@ -1,0 +1,25 @@
+{
+  "01": {
+    "key": 127744105,
+    "operation": "Insert"
+  },
+  "02": {
+    "key": -1452656740,
+    "operation": "Insert"
+  },
+  "03": {
+    "key": -1653097632,
+    "operation": "Insert"
+  },
+  "04": {
+    "key": 1051907270,
+    "operation": "Insert"
+  },
+  "05": {
+    "key": -1653097632,
+    "operation": "Delete"
+  },
+  "metadata": {
+    "numOps": 5
+  }
+}

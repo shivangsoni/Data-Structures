@@ -1,0 +1,71 @@
+{
+  "1": {
+    "key": 4846,
+    "leftChild": "2",
+    "rightChild": "3"
+  },
+  "10": {
+    "key": 4137,
+    "parent": "5"
+  },
+  "11": {
+    "key": 4144,
+    "parent": "5"
+  },
+  "12": {
+    "key": 3979,
+    "parent": "6"
+  },
+  "13": {
+    "key": 4009,
+    "parent": "6"
+  },
+  "2": {
+    "key": 4571,
+    "leftChild": "4",
+    "parent": "1",
+    "rightChild": "5"
+  },
+  "3": {
+    "key": 4129,
+    "leftChild": "6",
+    "parent": "1",
+    "rightChild": "7"
+  },
+  "4": {
+    "key": 4057,
+    "leftChild": "8",
+    "parent": "2",
+    "rightChild": "9"
+  },
+  "5": {
+    "key": 4406,
+    "leftChild": "10",
+    "parent": "2",
+    "rightChild": "11"
+  },
+  "6": {
+    "key": 4092,
+    "leftChild": "12",
+    "parent": "3",
+    "rightChild": "13"
+  },
+  "7": {
+    "key": 721,
+    "parent": "3"
+  },
+  "8": {
+    "key": 4039,
+    "parent": "4"
+  },
+  "9": {
+    "key": 8,
+    "parent": "4"
+  },
+  "metadata": {
+    "maxHeapSize": 50,
+    "max_size": 50,
+    "numOperations": 1000,
+    "size": 13
+  }
+}

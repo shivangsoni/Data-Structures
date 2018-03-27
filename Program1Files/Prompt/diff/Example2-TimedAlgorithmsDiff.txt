@@ -1,0 +1,46 @@
+1,33c1,11
+< 31	150
+< 42	216
+< 34	168
+< 34	168
+< 35	174
+< 35	174
+< 33	162
+< 29	138
+< 22	96
+< 30	144
+< 
+< 47	88
+< 47	84
+< 52	97
+< 50	87
+< 59	108
+< 56	105
+< 51	92
+< 56	105
+< 48	85
+< 52	89
+< 
+< 23	182
+< 20	176
+< 23	182
+< 23	182
+< 23	182
+< 22	180
+< 24	184
+< 21	178
+< 24	184
+< 23	182
+< 
+---
+> Sample,InsertionSortTime,InsertionSortCompares,InsertionSortMemaccess,MergeSortTime,MergeSortCompares,MergeSortMemaccess,QuickSortTime,QuickSortCompares,QuickSortMemaccess
+> Sample01,31,150,23,182,47,88
+> Sample02,42,216,20,176,47,84
+> Sample03,34,168,23,182,52,97
+> Sample04,34,168,23,182,50,87
+> Sample05,35,174,23,182,59,108
+> Sample06,35,174,22,180,56,105
+> Sample07,33,162,24,184,51,92
+> Sample08,29,138,21,178,56,105
+> Sample09,22,96,24,184,48,85
+> Sample10,30,144,23,182,52,89

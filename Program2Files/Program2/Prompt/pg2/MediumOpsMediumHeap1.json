@@ -1,0 +1,4374 @@
+{
+  "Op0001": {
+    "key": 1882,
+    "operation": "insert"
+  },
+  "Op0002": {
+    "key": 1329,
+    "operation": "insert"
+  },
+  "Op0003": {
+    "key": 475,
+    "operation": "insert"
+  },
+  "Op0004": {
+    "key": 527,
+    "operation": "insert"
+  },
+  "Op0005": {
+    "key": 1193,
+    "operation": "insert"
+  },
+  "Op0006": {
+    "key": 223,
+    "operation": "insert"
+  },
+  "Op0007": {
+    "key": 1090,
+    "operation": "insert"
+  },
+  "Op0008": {
+    "key": 921,
+    "operation": "insert"
+  },
+  "Op0009": {
+    "key": 1755,
+    "operation": "insert"
+  },
+  "Op0010": {
+    "key": 4112,
+    "operation": "insert"
+  },
+  "Op0011": {
+    "key": 2093,
+    "operation": "insert"
+  },
+  "Op0012": {
+    "key": 554,
+    "operation": "insert"
+  },
+  "Op0013": {
+    "key": 2215,
+    "operation": "insert"
+  },
+  "Op0014": {
+    "key": 132,
+    "operation": "insert"
+  },
+  "Op0015": {
+    "key": 867,
+    "operation": "insert"
+  },
+  "Op0016": {
+    "key": 2025,
+    "operation": "insert"
+  },
+  "Op0017": {
+    "key": 1605,
+    "operation": "insert"
+  },
+  "Op0018": {
+    "key": 534,
+    "operation": "insert"
+  },
+  "Op0019": {
+    "key": 4150,
+    "operation": "insert"
+  },
+  "Op0020": {
+    "key": 778,
+    "operation": "insert"
+  },
+  "Op0021": {
+    "key": 1079,
+    "operation": "insert"
+  },
+  "Op0022": {
+    "key": 172,
+    "operation": "insert"
+  },
+  "Op0023": {
+    "key": 4846,
+    "operation": "insert"
+  },
+  "Op0024": {
+    "key": 4681,
+    "operation": "insert"
+  },
+  "Op0025": {
+    "key": 172,
+    "newKey": 3253,
+    "operation": "change"
+  },
+  "Op0026": {
+    "key": 223,
+    "operation": "removeKey"
+  },
+  "Op0027": {
+    "key": 475,
+    "newKey": 1676,
+    "operation": "change"
+  },
+  "Op0028": {
+    "operation": "removeMax"
+  },
+  "Op0029": {
+    "key": 527,
+    "operation": "removeKey"
+  },
+  "Op0030": {
+    "operation": "removeMax"
+  },
+  "Op0031": {
+    "operation": "removeMax"
+  },
+  "Op0032": {
+    "key": 534,
+    "newKey": 2120,
+    "operation": "change"
+  },
+  "Op0033": {
+    "key": 554,
+    "newKey": 4657,
+    "operation": "change"
+  },
+  "Op0034": {
+    "key": 4525,
+    "operation": "insert"
+  },
+  "Op0035": {
+    "key": 581,
+    "operation": "insert"
+  },
+  "Op0036": {
+    "operation": "removeMax"
+  },
+  "Op0037": {
+    "key": 581,
+    "operation": "removeKey"
+  },
+  "Op0038": {
+    "key": 778,
+    "operation": "removeKey"
+  },
+  "Op0039": {
+    "key": 867,
+    "operation": "removeKey"
+  },
+  "Op0040": {
+    "key": 2103,
+    "operation": "insert"
+  },
+  "Op0041": {
+    "key": 921,
+    "operation": "removeKey"
+  },
+  "Op0042": {
+    "key": 2420,
+    "operation": "insert"
+  },
+  "Op0043": {
+    "operation": "removeMax"
+  },
+  "Op0044": {
+    "key": 1079,
+    "newKey": 709,
+    "operation": "change"
+  },
+  "Op0045": {
+    "key": 709,
+    "operation": "removeKey"
+  },
+  "Op0046": {
+    "operation": "removeMax"
+  },
+  "Op0047": {
+    "key": 1090,
+    "newKey": 3571,
+    "operation": "change"
+  },
+  "Op0048": {
+    "key": 3230,
+    "operation": "insert"
+  },
+  "Op0049": {
+    "operation": "removeMax"
+  },
+  "Op0050": {
+    "key": 1193,
+    "newKey": 3285,
+    "operation": "change"
+  },
+  "Op0051": {
+    "key": 1329,
+    "newKey": 3461,
+    "operation": "change"
+  },
+  "Op0052": {
+    "key": 1605,
+    "operation": "removeKey"
+  },
+  "Op0053": {
+    "key": 2720,
+    "operation": "insert"
+  },
+  "Op0054": {
+    "key": 1842,
+    "operation": "insert"
+  },
+  "Op0055": {
+    "key": 1676,
+    "newKey": 4684,
+    "operation": "change"
+  },
+  "Op0056": {
+    "key": 1755,
+    "operation": "removeKey"
+  },
+  "Op0057": {
+    "key": 1842,
+    "newKey": 4864,
+    "operation": "change"
+  },
+  "Op0058": {
+    "key": 1882,
+    "newKey": 4692,
+    "operation": "change"
+  },
+  "Op0059": {
+    "key": 2025,
+    "operation": "removeKey"
+  },
+  "Op0060": {
+    "operation": "removeMax"
+  },
+  "Op0061": {
+    "key": 2093,
+    "newKey": 1974,
+    "operation": "change"
+  },
+  "Op0062": {
+    "key": 3462,
+    "operation": "insert"
+  },
+  "Op0063": {
+    "key": 1974,
+    "newKey": 4119,
+    "operation": "change"
+  },
+  "Op0064": {
+    "key": 2103,
+    "newKey": 1891,
+    "operation": "change"
+  },
+  "Op0065": {
+    "key": 587,
+    "operation": "insert"
+  },
+  "Op0066": {
+    "operation": "removeMax"
+  },
+  "Op0067": {
+    "operation": "removeMax"
+  },
+  "Op0068": {
+    "key": 587,
+    "newKey": 2194,
+    "operation": "change"
+  },
+  "Op0069": {
+    "key": 3018,
+    "operation": "insert"
+  },
+  "Op0070": {
+    "key": 1891,
+    "operation": "removeKey"
+  },
+  "Op0071": {
+    "key": 2120,
+    "newKey": 4013,
+    "operation": "change"
+  },
+  "Op0072": {
+    "key": 2194,
+    "newKey": 2873,
+    "operation": "change"
+  },
+  "Op0073": {
+    "key": 2215,
+    "newKey": 3289,
+    "operation": "change"
+  },
+  "Op0074": {
+    "key": 2420,
+    "newKey": 4334,
+    "operation": "change"
+  },
+  "Op0075": {
+    "key": 4405,
+    "operation": "insert"
+  },
+  "Op0076": {
+    "key": 2720,
+    "operation": "removeKey"
+  },
+  "Op0077": {
+    "key": 2389,
+    "operation": "insert"
+  },
+  "Op0078": {
+    "key": 2389,
+    "newKey": 1784,
+    "operation": "change"
+  },
+  "Op0079": {
+    "key": 2744,
+    "operation": "insert"
+  },
+  "Op0080": {
+    "key": 4152,
+    "operation": "insert"
+  },
+  "Op0081": {
+    "key": 1784,
+    "newKey": 1117,
+    "operation": "change"
+  },
+  "Op0082": {
+    "key": 1117,
+    "operation": "removeKey"
+  },
+  "Op0083": {
+    "operation": "removeMax"
+  },
+  "Op0084": {
+    "key": 2744,
+    "newKey": 2884,
+    "operation": "change"
+  },
+  "Op0085": {
+    "key": 882,
+    "operation": "insert"
+  },
+  "Op0086": {
+    "key": 3087,
+    "operation": "insert"
+  },
+  "Op0087": {
+    "operation": "removeMax"
+  },
+  "Op0088": {
+    "key": 882,
+    "newKey": 1135,
+    "operation": "change"
+  },
+  "Op0089": {
+    "key": 1135,
+    "newKey": 2683,
+    "operation": "change"
+  },
+  "Op0090": {
+    "key": 838,
+    "operation": "insert"
+  },
+  "Op0091": {
+    "operation": "removeMax"
+  },
+  "Op0092": {
+    "key": 838,
+    "operation": "removeKey"
+  },
+  "Op0093": {
+    "key": 2683,
+    "newKey": 4775,
+    "operation": "change"
+  },
+  "Op0094": {
+    "key": 2873,
+    "newKey": 785,
+    "operation": "change"
+  },
+  "Op0095": {
+    "key": 785,
+    "operation": "removeKey"
+  },
+  "Op0096": {
+    "key": 2884,
+    "newKey": 4212,
+    "operation": "change"
+  },
+  "Op0097": {
+    "key": 3018,
+    "newKey": 1885,
+    "operation": "change"
+  },
+  "Op0098": {
+    "key": 1885,
+    "newKey": 141,
+    "operation": "change"
+  },
+  "Op0099": {
+    "key": 141,
+    "newKey": 4305,
+    "operation": "change"
+  },
+  "Op0100": {
+    "key": 3087,
+    "newKey": 3965,
+    "operation": "change"
+  },
+  "Op0101": {
+    "key": 3230,
+    "newKey": 686,
+    "operation": "change"
+  },
+  "Op0102": {
+    "key": 3113,
+    "operation": "insert"
+  },
+  "Op0103": {
+    "key": 686,
+    "newKey": 3137,
+    "operation": "change"
+  },
+  "Op0104": {
+    "operation": "removeMax"
+  },
+  "Op0105": {
+    "key": 3113,
+    "newKey": 4049,
+    "operation": "change"
+  },
+  "Op0106": {
+    "key": 3137,
+    "newKey": 2385,
+    "operation": "change"
+  },
+  "Op0107": {
+    "key": 2385,
+    "newKey": 901,
+    "operation": "change"
+  },
+  "Op0108": {
+    "key": 2301,
+    "operation": "insert"
+  },
+  "Op0109": {
+    "operation": "removeMax"
+  },
+  "Op0110": {
+    "key": 901,
+    "newKey": 3686,
+    "operation": "change"
+  },
+  "Op0111": {
+    "key": 2301,
+    "newKey": 3759,
+    "operation": "change"
+  },
+  "Op0112": {
+    "key": 3253,
+    "newKey": 2526,
+    "operation": "change"
+  },
+  "Op0113": {
+    "key": 2526,
+    "newKey": 1055,
+    "operation": "change"
+  },
+  "Op0114": {
+    "key": 1055,
+    "newKey": 686,
+    "operation": "change"
+  },
+  "Op0115": {
+    "key": 686,
+    "newKey": 3450,
+    "operation": "change"
+  },
+  "Op0116": {
+    "key": 3285,
+    "newKey": 2601,
+    "operation": "change"
+  },
+  "Op0117": {
+    "key": 2972,
+    "operation": "insert"
+  },
+  "Op0118": {
+    "key": 2601,
+    "newKey": 1054,
+    "operation": "change"
+  },
+  "Op0119": {
+    "key": 1054,
+    "operation": "removeKey"
+  },
+  "Op0120": {
+    "key": 2972,
+    "newKey": 696,
+    "operation": "change"
+  },
+  "Op0121": {
+    "key": 696,
+    "newKey": 315,
+    "operation": "change"
+  },
+  "Op0122": {
+    "key": 315,
+    "newKey": 3826,
+    "operation": "change"
+  },
+  "Op0123": {
+    "key": 3289,
+    "newKey": 3587,
+    "operation": "change"
+  },
+  "Op0124": {
+    "key": 3450,
+    "newKey": 1647,
+    "operation": "change"
+  },
+  "Op0125": {
+    "key": 937,
+    "operation": "insert"
+  },
+  "Op0126": {
+    "key": 937,
+    "operation": "removeKey"
+  },
+  "Op0127": {
+    "key": 605,
+    "operation": "insert"
+  },
+  "Op0128": {
+    "key": 605,
+    "newKey": 4444,
+    "operation": "change"
+  },
+  "Op0129": {
+    "operation": "removeMax"
+  },
+  "Op0130": {
+    "key": 4730,
+    "operation": "insert"
+  },
+  "Op0131": {
+    "key": 1647,
+    "newKey": 3168,
+    "operation": "change"
+  },
+  "Op0132": {
+    "key": 4255,
+    "operation": "insert"
+  },
+  "Op0133": {
+    "key": 3168,
+    "operation": "removeKey"
+  },
+  "Op0134": {
+    "key": 1756,
+    "operation": "insert"
+  },
+  "Op0135": {
+    "key": 1756,
+    "operation": "removeKey"
+  },
+  "Op0136": {
+    "operation": "removeMax"
+  },
+  "Op0137": {
+    "key": 3461,
+    "newKey": 4771,
+    "operation": "change"
+  },
+  "Op0138": {
+    "key": 3462,
+    "newKey": 3268,
+    "operation": "change"
+  },
+  "Op0139": {
+    "key": 3268,
+    "newKey": 4075,
+    "operation": "change"
+  },
+  "Op0140": {
+    "key": 2770,
+    "operation": "insert"
+  },
+  "Op0141": {
+    "key": 2770,
+    "operation": "removeKey"
+  },
+  "Op0142": {
+    "key": 3587,
+    "newKey": 1315,
+    "operation": "change"
+  },
+  "Op0143": {
+    "key": 1315,
+    "newKey": 3311,
+    "operation": "change"
+  },
+  "Op0144": {
+    "key": 3311,
+    "newKey": 4778,
+    "operation": "change"
+  },
+  "Op0145": {
+    "key": 2478,
+    "operation": "insert"
+  },
+  "Op0146": {
+    "key": 4484,
+    "operation": "insert"
+  },
+  "Op0147": {
+    "key": 596,
+    "operation": "insert"
+  },
+  "Op0148": {
+    "key": 596,
+    "operation": "removeKey"
+  },
+  "Op0149": {
+    "key": 2478,
+    "operation": "removeKey"
+  },
+  "Op0150": {
+    "key": 4515,
+    "operation": "insert"
+  },
+  "Op0151": {
+    "key": 3228,
+    "operation": "insert"
+  },
+  "Op0152": {
+    "operation": "removeMax"
+  },
+  "Op0153": {
+    "key": 1327,
+    "operation": "insert"
+  },
+  "Op0154": {
+    "key": 1327,
+    "newKey": 4627,
+    "operation": "change"
+  },
+  "Op0155": {
+    "key": 3228,
+    "operation": "removeKey"
+  },
+  "Op0156": {
+    "key": 3686,
+    "operation": "removeKey"
+  },
+  "Op0157": {
+    "key": 45,
+    "operation": "insert"
+  },
+  "Op0158": {
+    "key": 132,
+    "newKey": 411,
+    "operation": "change"
+  },
+  "Op0159": {
+    "key": 480,
+    "operation": "insert"
+  },
+  "Op0160": {
+    "key": 411,
+    "newKey": 4529,
+    "operation": "change"
+  },
+  "Op0161": {
+    "key": 480,
+    "newKey": 2179,
+    "operation": "change"
+  },
+  "Op0162": {
+    "key": 871,
+    "operation": "insert"
+  },
+  "Op0163": {
+    "key": 871,
+    "newKey": 193,
+    "operation": "change"
+  },
+  "Op0164": {
+    "key": 193,
+    "newKey": 2744,
+    "operation": "change"
+  },
+  "Op0165": {
+    "key": 2179,
+    "newKey": 2098,
+    "operation": "change"
+  },
+  "Op0166": {
+    "key": 2098,
+    "newKey": 864,
+    "operation": "change"
+  },
+  "Op0167": {
+    "key": 1852,
+    "operation": "insert"
+  },
+  "Op0168": {
+    "key": 864,
+    "newKey": 4319,
+    "operation": "change"
+  },
+  "Op0169": {
+    "key": 2309,
+    "operation": "insert"
+  },
+  "Op0170": {
+    "key": 199,
+    "operation": "insert"
+  },
+  "Op0171": {
+    "operation": "removeMax"
+  },
+  "Op0172": {
+    "key": 4456,
+    "operation": "insert"
+  },
+  "Op0173": {
+    "key": 199,
+    "operation": "removeKey"
+  },
+  "Op0174": {
+    "key": 1852,
+    "operation": "removeKey"
+  },
+  "Op0175": {
+    "operation": "removeMax"
+  },
+  "Op0176": {
+    "key": 2309,
+    "newKey": 2718,
+    "operation": "change"
+  },
+  "Op0177": {
+    "operation": "removeMax"
+  },
+  "Op0178": {
+    "key": 2718,
+    "operation": "removeKey"
+  },
+  "Op0179": {
+    "key": 2744,
+    "newKey": 4387,
+    "operation": "change"
+  },
+  "Op0180": {
+    "key": 3759,
+    "operation": "removeKey"
+  },
+  "Op0181": {
+    "operation": "removeMax"
+  },
+  "Op0182": {
+    "key": 1655,
+    "operation": "insert"
+  },
+  "Op0183": {
+    "key": 1508,
+    "operation": "insert"
+  },
+  "Op0184": {
+    "key": 1508,
+    "newKey": 2921,
+    "operation": "change"
+  },
+  "Op0185": {
+    "key": 1655,
+    "operation": "removeKey"
+  },
+  "Op0186": {
+    "key": 244,
+    "operation": "insert"
+  },
+  "Op0187": {
+    "operation": "removeMax"
+  },
+  "Op0188": {
+    "key": 3155,
+    "operation": "insert"
+  },
+  "Op0189": {
+    "key": 244,
+    "newKey": 3783,
+    "operation": "change"
+  },
+  "Op0190": {
+    "operation": "removeMax"
+  },
+  "Op0191": {
+    "key": 4735,
+    "operation": "insert"
+  },
+  "Op0192": {
+    "operation": "removeMax"
+  },
+  "Op0193": {
+    "key": 1573,
+    "operation": "insert"
+  },
+  "Op0194": {
+    "key": 1212,
+    "operation": "insert"
+  },
+  "Op0195": {
+    "key": 2161,
+    "operation": "insert"
+  },
+  "Op0196": {
+    "operation": "removeMax"
+  },
+  "Op0197": {
+    "key": 1212,
+    "newKey": 719,
+    "operation": "change"
+  },
+  "Op0198": {
+    "key": 719,
+    "operation": "removeKey"
+  },
+  "Op0199": {
+    "operation": "removeMax"
+  },
+  "Op0200": {
+    "key": 1324,
+    "operation": "insert"
+  },
+  "Op0201": {
+    "operation": "removeMax"
+  },
+  "Op0202": {
+    "operation": "removeMax"
+  },
+  "Op0203": {
+    "key": 4797,
+    "operation": "insert"
+  },
+  "Op0204": {
+    "key": 1366,
+    "operation": "insert"
+  },
+  "Op0205": {
+    "operation": "removeMax"
+  },
+  "Op0206": {
+    "operation": "removeMax"
+  },
+  "Op0207": {
+    "key": 1324,
+    "newKey": 4688,
+    "operation": "change"
+  },
+  "Op0208": {
+    "key": 1366,
+    "newKey": 2949,
+    "operation": "change"
+  },
+  "Op0209": {
+    "key": 846,
+    "operation": "insert"
+  },
+  "Op0210": {
+    "key": 846,
+    "newKey": 3284,
+    "operation": "change"
+  },
+  "Op0211": {
+    "operation": "removeMax"
+  },
+  "Op0212": {
+    "key": 1194,
+    "operation": "insert"
+  },
+  "Op0213": {
+    "key": 1194,
+    "newKey": 4619,
+    "operation": "change"
+  },
+  "Op0214": {
+    "key": 1573,
+    "newKey": 2708,
+    "operation": "change"
+  },
+  "Op0215": {
+    "key": 2161,
+    "operation": "removeKey"
+  },
+  "Op0216": {
+    "key": 2708,
+    "newKey": 2661,
+    "operation": "change"
+  },
+  "Op0217": {
+    "key": 2661,
+    "newKey": 3203,
+    "operation": "change"
+  },
+  "Op0218": {
+    "key": 2921,
+    "newKey": 2078,
+    "operation": "change"
+  },
+  "Op0219": {
+    "key": 2078,
+    "newKey": 2966,
+    "operation": "change"
+  },
+  "Op0220": {
+    "key": 2949,
+    "newKey": 2397,
+    "operation": "change"
+  },
+  "Op0221": {
+    "key": 2397,
+    "newKey": 276,
+    "operation": "change"
+  },
+  "Op0222": {
+    "key": 276,
+    "newKey": 3177,
+    "operation": "change"
+  },
+  "Op0223": {
+    "key": 2966,
+    "newKey": 564,
+    "operation": "change"
+  },
+  "Op0224": {
+    "key": 564,
+    "newKey": 1670,
+    "operation": "change"
+  },
+  "Op0225": {
+    "key": 1670,
+    "newKey": 571,
+    "operation": "change"
+  },
+  "Op0226": {
+    "key": 571,
+    "newKey": 2278,
+    "operation": "change"
+  },
+  "Op0227": {
+    "key": 2828,
+    "operation": "insert"
+  },
+  "Op0228": {
+    "key": 2278,
+    "newKey": 952,
+    "operation": "change"
+  },
+  "Op0229": {
+    "key": 3034,
+    "operation": "insert"
+  },
+  "Op0230": {
+    "key": 952,
+    "operation": "removeKey"
+  },
+  "Op0231": {
+    "key": 2828,
+    "newKey": 1370,
+    "operation": "change"
+  },
+  "Op0232": {
+    "key": 2660,
+    "operation": "insert"
+  },
+  "Op0233": {
+    "operation": "removeMax"
+  },
+  "Op0234": {
+    "key": 1336,
+    "operation": "insert"
+  },
+  "Op0235": {
+    "operation": "removeMax"
+  },
+  "Op0236": {
+    "key": 1336,
+    "newKey": 2405,
+    "operation": "change"
+  },
+  "Op0237": {
+    "operation": "removeMax"
+  },
+  "Op0238": {
+    "key": 1370,
+    "newKey": 3894,
+    "operation": "change"
+  },
+  "Op0239": {
+    "key": 2405,
+    "newKey": 3867,
+    "operation": "change"
+  },
+  "Op0240": {
+    "key": 2660,
+    "newKey": 3969,
+    "operation": "change"
+  },
+  "Op0241": {
+    "key": 3034,
+    "newKey": 1725,
+    "operation": "change"
+  },
+  "Op0242": {
+    "key": 1725,
+    "newKey": 4932,
+    "operation": "change"
+  },
+  "Op0243": {
+    "key": 3155,
+    "newKey": 4135,
+    "operation": "change"
+  },
+  "Op0244": {
+    "key": 3177,
+    "newKey": 1369,
+    "operation": "change"
+  },
+  "Op0245": {
+    "key": 3706,
+    "operation": "insert"
+  },
+  "Op0246": {
+    "key": 4998,
+    "operation": "insert"
+  },
+  "Op0247": {
+    "key": 3822,
+    "operation": "insert"
+  },
+  "Op0248": {
+    "key": 2128,
+    "operation": "insert"
+  },
+  "Op0249": {
+    "key": 1185,
+    "operation": "insert"
+  },
+  "Op0250": {
+    "key": 1185,
+    "newKey": 1476,
+    "operation": "change"
+  },
+  "Op0251": {
+    "key": 1369,
+    "operation": "removeKey"
+  },
+  "Op0252": {
+    "operation": "removeMax"
+  },
+  "Op0253": {
+    "key": 1476,
+    "newKey": 4505,
+    "operation": "change"
+  },
+  "Op0254": {
+    "key": 1444,
+    "operation": "insert"
+  },
+  "Op0255": {
+    "key": 1444,
+    "newKey": 1692,
+    "operation": "change"
+  },
+  "Op0256": {
+    "operation": "removeMax"
+  },
+  "Op0257": {
+    "key": 1692,
+    "operation": "removeKey"
+  },
+  "Op0258": {
+    "key": 2128,
+    "operation": "removeKey"
+  },
+  "Op0259": {
+    "key": 1002,
+    "operation": "insert"
+  },
+  "Op0260": {
+    "key": 2584,
+    "operation": "insert"
+  },
+  "Op0261": {
+    "operation": "removeMax"
+  },
+  "Op0262": {
+    "key": 1002,
+    "newKey": 3282,
+    "operation": "change"
+  },
+  "Op0263": {
+    "key": 2584,
+    "newKey": 4752,
+    "operation": "change"
+  },
+  "Op0264": {
+    "key": 1381,
+    "operation": "insert"
+  },
+  "Op0265": {
+    "key": 1381,
+    "operation": "removeKey"
+  },
+  "Op0266": {
+    "operation": "removeMax"
+  },
+  "Op0267": {
+    "key": 3237,
+    "operation": "insert"
+  },
+  "Op0268": {
+    "key": 3203,
+    "newKey": 3036,
+    "operation": "change"
+  },
+  "Op0269": {
+    "key": 3036,
+    "operation": "removeKey"
+  },
+  "Op0270": {
+    "key": 3237,
+    "newKey": 3909,
+    "operation": "change"
+  },
+  "Op0271": {
+    "key": 3282,
+    "operation": "removeKey"
+  },
+  "Op0272": {
+    "key": 3284,
+    "newKey": 2487,
+    "operation": "change"
+  },
+  "Op0273": {
+    "key": 1822,
+    "operation": "insert"
+  },
+  "Op0274": {
+    "key": 1822,
+    "operation": "removeKey"
+  },
+  "Op0275": {
+    "key": 2487,
+    "newKey": 635,
+    "operation": "change"
+  },
+  "Op0276": {
+    "key": 635,
+    "newKey": 3863,
+    "operation": "change"
+  },
+  "Op0277": {
+    "key": 3706,
+    "newKey": 3310,
+    "operation": "change"
+  },
+  "Op0278": {
+    "key": 3310,
+    "newKey": 4996,
+    "operation": "change"
+  },
+  "Op0279": {
+    "key": 3783,
+    "newKey": 733,
+    "operation": "change"
+  },
+  "Op0280": {
+    "key": 961,
+    "operation": "insert"
+  },
+  "Op0281": {
+    "key": 733,
+    "newKey": 1274,
+    "operation": "change"
+  },
+  "Op0282": {
+    "key": 961,
+    "operation": "removeKey"
+  },
+  "Op0283": {
+    "key": 1274,
+    "newKey": 4061,
+    "operation": "change"
+  },
+  "Op0284": {
+    "key": 3822,
+    "newKey": 1173,
+    "operation": "change"
+  },
+  "Op0285": {
+    "key": 1173,
+    "newKey": 4870,
+    "operation": "change"
+  },
+  "Op0286": {
+    "key": 3826,
+    "newKey": 3697,
+    "operation": "change"
+  },
+  "Op0287": {
+    "key": 928,
+    "operation": "insert"
+  },
+  "Op0288": {
+    "operation": "removeMax"
+  },
+  "Op0289": {
+    "key": 928,
+    "newKey": 4949,
+    "operation": "change"
+  },
+  "Op0290": {
+    "key": 3697,
+    "newKey": 4399,
+    "operation": "change"
+  },
+  "Op0291": {
+    "key": 3863,
+    "newKey": 2713,
+    "operation": "change"
+  },
+  "Op0292": {
+    "key": 2713,
+    "newKey": 4090,
+    "operation": "change"
+  },
+  "Op0293": {
+    "key": 4181,
+    "operation": "insert"
+  },
+  "Op0294": {
+    "operation": "removeMax"
+  },
+  "Op0295": {
+    "key": 3867,
+    "newKey": 184,
+    "operation": "change"
+  },
+  "Op0296": {
+    "key": 184,
+    "newKey": 2828,
+    "operation": "change"
+  },
+  "Op0297": {
+    "key": 2828,
+    "newKey": 1126,
+    "operation": "change"
+  },
+  "Op0298": {
+    "key": 1126,
+    "newKey": 2529,
+    "operation": "change"
+  },
+  "Op0299": {
+    "key": 2529,
+    "newKey": 4426,
+    "operation": "change"
+  },
+  "Op0300": {
+    "key": 3894,
+    "newKey": 2855,
+    "operation": "change"
+  },
+  "Op0301": {
+    "key": 2855,
+    "newKey": 2012,
+    "operation": "change"
+  },
+  "Op0302": {
+    "key": 2012,
+    "newKey": 1319,
+    "operation": "change"
+  },
+  "Op0303": {
+    "key": 1319,
+    "newKey": 3703,
+    "operation": "change"
+  },
+  "Op0304": {
+    "key": 3703,
+    "newKey": 4071,
+    "operation": "change"
+  },
+  "Op0305": {
+    "key": 1081,
+    "operation": "insert"
+  },
+  "Op0306": {
+    "key": 1081,
+    "newKey": 637,
+    "operation": "change"
+  },
+  "Op0307": {
+    "key": 637,
+    "operation": "removeKey"
+  },
+  "Op0308": {
+    "key": 832,
+    "operation": "insert"
+  },
+  "Op0309": {
+    "key": 832,
+    "newKey": 2460,
+    "operation": "change"
+  },
+  "Op0310": {
+    "operation": "removeMax"
+  },
+  "Op0311": {
+    "key": 2460,
+    "newKey": 4265,
+    "operation": "change"
+  },
+  "Op0312": {
+    "key": 3909,
+    "newKey": 3572,
+    "operation": "change"
+  },
+  "Op0313": {
+    "key": 3572,
+    "newKey": 177,
+    "operation": "change"
+  },
+  "Op0314": {
+    "key": 127,
+    "operation": "insert"
+  },
+  "Op0315": {
+    "operation": "removeMax"
+  },
+  "Op0316": {
+    "key": 127,
+    "newKey": 4086,
+    "operation": "change"
+  },
+  "Op0317": {
+    "key": 177,
+    "newKey": 700,
+    "operation": "change"
+  },
+  "Op0318": {
+    "key": 700,
+    "newKey": 4094,
+    "operation": "change"
+  },
+  "Op0319": {
+    "key": 3965,
+    "newKey": 1545,
+    "operation": "change"
+  },
+  "Op0320": {
+    "key": 1545,
+    "newKey": 1514,
+    "operation": "change"
+  },
+  "Op0321": {
+    "key": 1514,
+    "newKey": 3078,
+    "operation": "change"
+  },
+  "Op0322": {
+    "key": 3078,
+    "newKey": 2331,
+    "operation": "change"
+  },
+  "Op0323": {
+    "key": 2331,
+    "newKey": 778,
+    "operation": "change"
+  },
+  "Op0324": {
+    "key": 778,
+    "newKey": 475,
+    "operation": "change"
+  },
+  "Op0325": {
+    "key": 475,
+    "newKey": 2952,
+    "operation": "change"
+  },
+  "Op0326": {
+    "key": 866,
+    "operation": "insert"
+  },
+  "Op0327": {
+    "key": 866,
+    "newKey": 4735,
+    "operation": "change"
+  },
+  "Op0328": {
+    "key": 3051,
+    "operation": "insert"
+  },
+  "Op0329": {
+    "key": 4021,
+    "operation": "insert"
+  },
+  "Op0330": {
+    "key": 2952,
+    "operation": "removeKey"
+  },
+  "Op0331": {
+    "key": 3051,
+    "newKey": 1778,
+    "operation": "change"
+  },
+  "Op0332": {
+    "key": 2295,
+    "operation": "insert"
+  },
+  "Op0333": {
+    "operation": "removeMax"
+  },
+  "Op0334": {
+    "key": 1778,
+    "operation": "removeKey"
+  },
+  "Op0335": {
+    "operation": "removeMax"
+  },
+  "Op0336": {
+    "key": 2295,
+    "newKey": 1382,
+    "operation": "change"
+  },
+  "Op0337": {
+    "key": 1382,
+    "newKey": 3325,
+    "operation": "change"
+  },
+  "Op0338": {
+    "key": 3325,
+    "newKey": 4085,
+    "operation": "change"
+  },
+  "Op0339": {
+    "key": 3969,
+    "newKey": 2084,
+    "operation": "change"
+  },
+  "Op0340": {
+    "key": 2084,
+    "newKey": 3763,
+    "operation": "change"
+  },
+  "Op0341": {
+    "key": 311,
+    "operation": "insert"
+  },
+  "Op0342": {
+    "operation": "removeMax"
+  },
+  "Op0343": {
+    "key": 311,
+    "newKey": 2068,
+    "operation": "change"
+  },
+  "Op0344": {
+    "key": 2068,
+    "newKey": 4422,
+    "operation": "change"
+  },
+  "Op0345": {
+    "key": 3763,
+    "newKey": 658,
+    "operation": "change"
+  },
+  "Op0346": {
+    "key": 658,
+    "newKey": 1481,
+    "operation": "change"
+  },
+  "Op0347": {
+    "key": 1481,
+    "newKey": 2364,
+    "operation": "change"
+  },
+  "Op0348": {
+    "key": 2364,
+    "newKey": 1136,
+    "operation": "change"
+  },
+  "Op0349": {
+    "key": 1136,
+    "newKey": 1671,
+    "operation": "change"
+  },
+  "Op0350": {
+    "key": 1671,
+    "newKey": 864,
+    "operation": "change"
+  },
+  "Op0351": {
+    "key": 864,
+    "newKey": 1874,
+    "operation": "change"
+  },
+  "Op0352": {
+    "key": 1874,
+    "newKey": 104,
+    "operation": "change"
+  },
+  "Op0353": {
+    "key": 3820,
+    "operation": "insert"
+  },
+  "Op0354": {
+    "key": 104,
+    "newKey": 2208,
+    "operation": "change"
+  },
+  "Op0355": {
+    "key": 2208,
+    "newKey": 3821,
+    "operation": "change"
+  },
+  "Op0356": {
+    "operation": "removeMax"
+  },
+  "Op0357": {
+    "key": 3820,
+    "newKey": 2404,
+    "operation": "change"
+  },
+  "Op0358": {
+    "key": 2404,
+    "newKey": 4304,
+    "operation": "change"
+  },
+  "Op0359": {
+    "key": 3821,
+    "newKey": 121,
+    "operation": "change"
+  },
+  "Op0360": {
+    "key": 121,
+    "newKey": 3997,
+    "operation": "change"
+  },
+  "Op0361": {
+    "key": 3997,
+    "newKey": 4679,
+    "operation": "change"
+  },
+  "Op0362": {
+    "key": 4013,
+    "newKey": 4064,
+    "operation": "change"
+  },
+  "Op0363": {
+    "key": 3681,
+    "operation": "insert"
+  },
+  "Op0364": {
+    "key": 2346,
+    "operation": "insert"
+  },
+  "Op0365": {
+    "key": 2346,
+    "newKey": 899,
+    "operation": "change"
+  },
+  "Op0366": {
+    "operation": "removeMax"
+  },
+  "Op0367": {
+    "key": 899,
+    "operation": "removeKey"
+  },
+  "Op0368": {
+    "key": 144,
+    "operation": "insert"
+  },
+  "Op0369": {
+    "key": 144,
+    "newKey": 873,
+    "operation": "change"
+  },
+  "Op0370": {
+    "key": 873,
+    "operation": "removeKey"
+  },
+  "Op0371": {
+    "key": 3681,
+    "newKey": 3597,
+    "operation": "change"
+  },
+  "Op0372": {
+    "key": 3597,
+    "newKey": 83,
+    "operation": "change"
+  },
+  "Op0373": {
+    "key": 83,
+    "newKey": 4811,
+    "operation": "change"
+  },
+  "Op0374": {
+    "key": 1242,
+    "operation": "insert"
+  },
+  "Op0375": {
+    "operation": "removeMax"
+  },
+  "Op0376": {
+    "key": 1242,
+    "newKey": 2684,
+    "operation": "change"
+  },
+  "Op0377": {
+    "key": 2684,
+    "newKey": 1692,
+    "operation": "change"
+  },
+  "Op0378": {
+    "key": 1692,
+    "newKey": 4281,
+    "operation": "change"
+  },
+  "Op0379": {
+    "key": 1529,
+    "operation": "insert"
+  },
+  "Op0380": {
+    "key": 4367,
+    "operation": "insert"
+  },
+  "Op0381": {
+    "key": 1529,
+    "newKey": 4838,
+    "operation": "change"
+  },
+  "Op0382": {
+    "key": 4021,
+    "operation": "removeKey"
+  },
+  "Op0383": {
+    "operation": "removeMax"
+  },
+  "Op0384": {
+    "key": 4061,
+    "newKey": 3588,
+    "operation": "change"
+  },
+  "Op0385": {
+    "key": 3588,
+    "newKey": 139,
+    "operation": "change"
+  },
+  "Op0386": {
+    "key": 2556,
+    "operation": "insert"
+  },
+  "Op0387": {
+    "key": 3766,
+    "operation": "insert"
+  },
+  "Op0388": {
+    "key": 2835,
+    "operation": "insert"
+  },
+  "Op0389": {
+    "key": 139,
+    "newKey": 1360,
+    "operation": "change"
+  },
+  "Op0390": {
+    "key": 1360,
+    "operation": "removeKey"
+  },
+  "Op0391": {
+    "key": 2556,
+    "operation": "removeKey"
+  },
+  "Op0392": {
+    "operation": "removeMax"
+  },
+  "Op0393": {
+    "key": 529,
+    "operation": "insert"
+  },
+  "Op0394": {
+    "key": 529,
+    "newKey": 2095,
+    "operation": "change"
+  },
+  "Op0395": {
+    "key": 2095,
+    "newKey": 2497,
+    "operation": "change"
+  },
+  "Op0396": {
+    "key": 2510,
+    "operation": "insert"
+  },
+  "Op0397": {
+    "key": 2497,
+    "newKey": 4971,
+    "operation": "change"
+  },
+  "Op0398": {
+    "operation": "removeMax"
+  },
+  "Op0399": {
+    "key": 2510,
+    "operation": "removeKey"
+  },
+  "Op0400": {
+    "key": 9,
+    "operation": "insert"
+  },
+  "Op0401": {
+    "key": 45,
+    "operation": "removeKey"
+  },
+  "Op0402": {
+    "key": 2835,
+    "newKey": 2627,
+    "operation": "change"
+  },
+  "Op0403": {
+    "key": 1079,
+    "operation": "insert"
+  },
+  "Op0404": {
+    "key": 3829,
+    "operation": "insert"
+  },
+  "Op0405": {
+    "key": 2193,
+    "operation": "insert"
+  },
+  "Op0406": {
+    "key": 1079,
+    "newKey": 1994,
+    "operation": "change"
+  },
+  "Op0407": {
+    "key": 4131,
+    "operation": "insert"
+  },
+  "Op0408": {
+    "key": 1994,
+    "operation": "removeKey"
+  },
+  "Op0409": {
+    "key": 2193,
+    "operation": "removeKey"
+  },
+  "Op0410": {
+    "key": 3102,
+    "operation": "insert"
+  },
+  "Op0411": {
+    "key": 392,
+    "operation": "insert"
+  },
+  "Op0412": {
+    "key": 392,
+    "operation": "removeKey"
+  },
+  "Op0413": {
+    "key": 2627,
+    "operation": "removeKey"
+  },
+  "Op0414": {
+    "key": 3102,
+    "operation": "removeKey"
+  },
+  "Op0415": {
+    "operation": "removeMax"
+  },
+  "Op0416": {
+    "key": 3766,
+    "newKey": 1514,
+    "operation": "change"
+  },
+  "Op0417": {
+    "key": 1514,
+    "newKey": 202,
+    "operation": "change"
+  },
+  "Op0418": {
+    "key": 202,
+    "newKey": 1983,
+    "operation": "change"
+  },
+  "Op0419": {
+    "key": 1983,
+    "newKey": 3960,
+    "operation": "change"
+  },
+  "Op0420": {
+    "key": 3829,
+    "newKey": 1981,
+    "operation": "change"
+  },
+  "Op0421": {
+    "key": 1981,
+    "newKey": 2979,
+    "operation": "change"
+  },
+  "Op0422": {
+    "key": 2979,
+    "newKey": 4729,
+    "operation": "change"
+  },
+  "Op0423": {
+    "key": 4760,
+    "operation": "insert"
+  },
+  "Op0424": {
+    "operation": "removeMax"
+  },
+  "Op0425": {
+    "key": 3960,
+    "newKey": 917,
+    "operation": "change"
+  },
+  "Op0426": {
+    "key": 917,
+    "newKey": 1368,
+    "operation": "change"
+  },
+  "Op0427": {
+    "key": 1368,
+    "newKey": 3490,
+    "operation": "change"
+  },
+  "Op0428": {
+    "key": 3490,
+    "newKey": 2815,
+    "operation": "change"
+  },
+  "Op0429": {
+    "key": 3970,
+    "operation": "insert"
+  },
+  "Op0430": {
+    "key": 2815,
+    "operation": "removeKey"
+  },
+  "Op0431": {
+    "key": 3970,
+    "newKey": 660,
+    "operation": "change"
+  },
+  "Op0432": {
+    "key": 1218,
+    "operation": "insert"
+  },
+  "Op0433": {
+    "operation": "removeMax"
+  },
+  "Op0434": {
+    "key": 1094,
+    "operation": "insert"
+  },
+  "Op0435": {
+    "key": 660,
+    "operation": "removeKey"
+  },
+  "Op0436": {
+    "key": 1094,
+    "newKey": 4031,
+    "operation": "change"
+  },
+  "Op0437": {
+    "key": 1218,
+    "newKey": 2271,
+    "operation": "change"
+  },
+  "Op0438": {
+    "key": 2271,
+    "newKey": 2875,
+    "operation": "change"
+  },
+  "Op0439": {
+    "key": 2875,
+    "newKey": 184,
+    "operation": "change"
+  },
+  "Op0440": {
+    "key": 184,
+    "newKey": 3682,
+    "operation": "change"
+  },
+  "Op0441": {
+    "key": 1851,
+    "operation": "insert"
+  },
+  "Op0442": {
+    "key": 3086,
+    "operation": "insert"
+  },
+  "Op0443": {
+    "operation": "removeMax"
+  },
+  "Op0444": {
+    "key": 4268,
+    "operation": "insert"
+  },
+  "Op0445": {
+    "operation": "removeMax"
+  },
+  "Op0446": {
+    "key": 477,
+    "operation": "insert"
+  },
+  "Op0447": {
+    "operation": "removeMax"
+  },
+  "Op0448": {
+    "key": 4844,
+    "operation": "insert"
+  },
+  "Op0449": {
+    "operation": "removeMax"
+  },
+  "Op0450": {
+    "key": 477,
+    "newKey": 39,
+    "operation": "change"
+  },
+  "Op0451": {
+    "key": 1414,
+    "operation": "insert"
+  },
+  "Op0452": {
+    "key": 39,
+    "newKey": 1936,
+    "operation": "change"
+  },
+  "Op0453": {
+    "key": 1414,
+    "newKey": 3311,
+    "operation": "change"
+  },
+  "Op0454": {
+    "operation": "removeMax"
+  },
+  "Op0455": {
+    "operation": "removeMax"
+  },
+  "Op0456": {
+    "key": 1851,
+    "newKey": 3787,
+    "operation": "change"
+  },
+  "Op0457": {
+    "key": 2604,
+    "operation": "insert"
+  },
+  "Op0458": {
+    "key": 1936,
+    "newKey": 2590,
+    "operation": "change"
+  },
+  "Op0459": {
+    "key": 4889,
+    "operation": "insert"
+  },
+  "Op0460": {
+    "key": 2590,
+    "newKey": 1640,
+    "operation": "change"
+  },
+  "Op0461": {
+    "operation": "removeMax"
+  },
+  "Op0462": {
+    "key": 985,
+    "operation": "insert"
+  },
+  "Op0463": {
+    "key": 985,
+    "newKey": 4996,
+    "operation": "change"
+  },
+  "Op0464": {
+    "key": 4688,
+    "operation": "insert"
+  },
+  "Op0465": {
+    "key": 1640,
+    "operation": "removeKey"
+  },
+  "Op0466": {
+    "operation": "removeMax"
+  },
+  "Op0467": {
+    "key": 2604,
+    "operation": "removeKey"
+  },
+  "Op0468": {
+    "key": 3086,
+    "newKey": 4742,
+    "operation": "change"
+  },
+  "Op0469": {
+    "key": 3311,
+    "newKey": 3710,
+    "operation": "change"
+  },
+  "Op0470": {
+    "key": 3682,
+    "newKey": 2614,
+    "operation": "change"
+  },
+  "Op0471": {
+    "key": 2614,
+    "newKey": 785,
+    "operation": "change"
+  },
+  "Op0472": {
+    "key": 785,
+    "newKey": 674,
+    "operation": "change"
+  },
+  "Op0473": {
+    "key": 674,
+    "newKey": 1926,
+    "operation": "change"
+  },
+  "Op0474": {
+    "key": 2363,
+    "operation": "insert"
+  },
+  "Op0475": {
+    "key": 1926,
+    "newKey": 1637,
+    "operation": "change"
+  },
+  "Op0476": {
+    "key": 1637,
+    "newKey": 1055,
+    "operation": "change"
+  },
+  "Op0477": {
+    "operation": "removeMax"
+  },
+  "Op0478": {
+    "key": 1055,
+    "newKey": 853,
+    "operation": "change"
+  },
+  "Op0479": {
+    "key": 853,
+    "newKey": 2727,
+    "operation": "change"
+  },
+  "Op0480": {
+    "key": 3609,
+    "operation": "insert"
+  },
+  "Op0481": {
+    "key": 2363,
+    "operation": "removeKey"
+  },
+  "Op0482": {
+    "key": 2727,
+    "newKey": 2801,
+    "operation": "change"
+  },
+  "Op0483": {
+    "key": 2801,
+    "newKey": 998,
+    "operation": "change"
+  },
+  "Op0484": {
+    "key": 998,
+    "newKey": 4217,
+    "operation": "change"
+  },
+  "Op0485": {
+    "key": 3609,
+    "newKey": 1420,
+    "operation": "change"
+  },
+  "Op0486": {
+    "key": 1420,
+    "newKey": 964,
+    "operation": "change"
+  },
+  "Op0487": {
+    "key": 3188,
+    "operation": "insert"
+  },
+  "Op0488": {
+    "key": 964,
+    "operation": "removeKey"
+  },
+  "Op0489": {
+    "key": 3169,
+    "operation": "insert"
+  },
+  "Op0490": {
+    "key": 3169,
+    "newKey": 294,
+    "operation": "change"
+  },
+  "Op0491": {
+    "key": 1193,
+    "operation": "insert"
+  },
+  "Op0492": {
+    "key": 3531,
+    "operation": "insert"
+  },
+  "Op0493": {
+    "operation": "removeMax"
+  },
+  "Op0494": {
+    "operation": "removeMax"
+  },
+  "Op0495": {
+    "operation": "removeMax"
+  },
+  "Op0496": {
+    "key": 89,
+    "operation": "insert"
+  },
+  "Op0497": {
+    "key": 89,
+    "newKey": 1770,
+    "operation": "change"
+  },
+  "Op0498": {
+    "key": 294,
+    "operation": "removeKey"
+  },
+  "Op0499": {
+    "key": 4267,
+    "operation": "insert"
+  },
+  "Op0500": {
+    "operation": "removeMax"
+  },
+  "Op0501": {
+    "key": 3773,
+    "operation": "insert"
+  },
+  "Op0502": {
+    "key": 4349,
+    "operation": "insert"
+  },
+  "Op0503": {
+    "key": 4610,
+    "operation": "insert"
+  },
+  "Op0504": {
+    "operation": "removeMax"
+  },
+  "Op0505": {
+    "key": 2553,
+    "operation": "insert"
+  },
+  "Op0506": {
+    "key": 1193,
+    "operation": "removeKey"
+  },
+  "Op0507": {
+    "key": 3115,
+    "operation": "insert"
+  },
+  "Op0508": {
+    "key": 1605,
+    "operation": "insert"
+  },
+  "Op0509": {
+    "key": 2556,
+    "operation": "insert"
+  },
+  "Op0510": {
+    "operation": "removeMax"
+  },
+  "Op0511": {
+    "key": 4861,
+    "operation": "insert"
+  },
+  "Op0512": {
+    "key": 1605,
+    "newKey": 1877,
+    "operation": "change"
+  },
+  "Op0513": {
+    "key": 1040,
+    "operation": "insert"
+  },
+  "Op0514": {
+    "key": 1040,
+    "newKey": 1745,
+    "operation": "change"
+  },
+  "Op0515": {
+    "key": 1745,
+    "newKey": 1796,
+    "operation": "change"
+  },
+  "Op0516": {
+    "key": 1214,
+    "operation": "insert"
+  },
+  "Op0517": {
+    "key": 2129,
+    "operation": "insert"
+  },
+  "Op0518": {
+    "key": 1214,
+    "newKey": 2097,
+    "operation": "change"
+  },
+  "Op0519": {
+    "operation": "removeMax"
+  },
+  "Op0520": {
+    "key": 1770,
+    "operation": "removeKey"
+  },
+  "Op0521": {
+    "key": 1796,
+    "operation": "removeKey"
+  },
+  "Op0522": {
+    "operation": "removeMax"
+  },
+  "Op0523": {
+    "operation": "removeMax"
+  },
+  "Op0524": {
+    "key": 4187,
+    "operation": "insert"
+  },
+  "Op0525": {
+    "operation": "removeMax"
+  },
+  "Op0526": {
+    "operation": "removeMax"
+  },
+  "Op0527": {
+    "key": 1877,
+    "newKey": 4652,
+    "operation": "change"
+  },
+  "Op0528": {
+    "key": 4654,
+    "operation": "insert"
+  },
+  "Op0529": {
+    "key": 2097,
+    "newKey": 107,
+    "operation": "change"
+  },
+  "Op0530": {
+    "key": 107,
+    "newKey": 587,
+    "operation": "change"
+  },
+  "Op0531": {
+    "key": 537,
+    "operation": "insert"
+  },
+  "Op0532": {
+    "key": 537,
+    "operation": "removeKey"
+  },
+  "Op0533": {
+    "key": 587,
+    "operation": "removeKey"
+  },
+  "Op0534": {
+    "key": 2129,
+    "newKey": 1391,
+    "operation": "change"
+  },
+  "Op0535": {
+    "key": 129,
+    "operation": "insert"
+  },
+  "Op0536": {
+    "key": 129,
+    "newKey": 2417,
+    "operation": "change"
+  },
+  "Op0537": {
+    "operation": "removeMax"
+  },
+  "Op0538": {
+    "operation": "removeMax"
+  },
+  "Op0539": {
+    "key": 1391,
+    "operation": "removeKey"
+  },
+  "Op0540": {
+    "key": 2417,
+    "newKey": 1969,
+    "operation": "change"
+  },
+  "Op0541": {
+    "key": 1969,
+    "newKey": 3754,
+    "operation": "change"
+  },
+  "Op0542": {
+    "key": 2553,
+    "newKey": 2075,
+    "operation": "change"
+  },
+  "Op0543": {
+    "key": 1958,
+    "operation": "insert"
+  },
+  "Op0544": {
+    "key": 3391,
+    "operation": "insert"
+  },
+  "Op0545": {
+    "operation": "removeMax"
+  },
+  "Op0546": {
+    "operation": "removeMax"
+  },
+  "Op0547": {
+    "key": 3048,
+    "operation": "insert"
+  },
+  "Op0548": {
+    "key": 1958,
+    "newKey": 4410,
+    "operation": "change"
+  },
+  "Op0549": {
+    "key": 2075,
+    "operation": "removeKey"
+  },
+  "Op0550": {
+    "key": 2556,
+    "newKey": 944,
+    "operation": "change"
+  },
+  "Op0551": {
+    "key": 944,
+    "newKey": 1496,
+    "operation": "change"
+  },
+  "Op0552": {
+    "key": 1496,
+    "newKey": 4349,
+    "operation": "change"
+  },
+  "Op0553": {
+    "key": 3615,
+    "operation": "insert"
+  },
+  "Op0554": {
+    "key": 3586,
+    "operation": "insert"
+  },
+  "Op0555": {
+    "key": 3048,
+    "operation": "removeKey"
+  },
+  "Op0556": {
+    "key": 3115,
+    "operation": "removeKey"
+  },
+  "Op0557": {
+    "key": 3188,
+    "newKey": 1457,
+    "operation": "change"
+  },
+  "Op0558": {
+    "key": 1457,
+    "newKey": 3798,
+    "operation": "change"
+  },
+  "Op0559": {
+    "key": 2177,
+    "operation": "insert"
+  },
+  "Op0560": {
+    "operation": "removeMax"
+  },
+  "Op0561": {
+    "key": 2177,
+    "newKey": 3168,
+    "operation": "change"
+  },
+  "Op0562": {
+    "key": 3168,
+    "newKey": 3161,
+    "operation": "change"
+  },
+  "Op0563": {
+    "key": 1678,
+    "operation": "insert"
+  },
+  "Op0564": {
+    "key": 1678,
+    "newKey": 3836,
+    "operation": "change"
+  },
+  "Op0565": {
+    "key": 3161,
+    "newKey": 3687,
+    "operation": "change"
+  },
+  "Op0566": {
+    "key": 2963,
+    "operation": "insert"
+  },
+  "Op0567": {
+    "operation": "removeMax"
+  },
+  "Op0568": {
+    "operation": "removeMax"
+  },
+  "Op0569": {
+    "key": 4247,
+    "operation": "insert"
+  },
+  "Op0570": {
+    "operation": "removeMax"
+  },
+  "Op0571": {
+    "key": 2963,
+    "newKey": 3428,
+    "operation": "change"
+  },
+  "Op0572": {
+    "key": 3391,
+    "newKey": 204,
+    "operation": "change"
+  },
+  "Op0573": {
+    "key": 303,
+    "operation": "insert"
+  },
+  "Op0574": {
+    "operation": "removeMax"
+  },
+  "Op0575": {
+    "key": 204,
+    "newKey": 1375,
+    "operation": "change"
+  },
+  "Op0576": {
+    "key": 303,
+    "newKey": 3847,
+    "operation": "change"
+  },
+  "Op0577": {
+    "key": 1375,
+    "newKey": 2779,
+    "operation": "change"
+  },
+  "Op0578": {
+    "key": 2779,
+    "newKey": 4842,
+    "operation": "change"
+  },
+  "Op0579": {
+    "key": 4749,
+    "operation": "insert"
+  },
+  "Op0580": {
+    "key": 3428,
+    "operation": "removeKey"
+  },
+  "Op0581": {
+    "key": 3531,
+    "newKey": 562,
+    "operation": "change"
+  },
+  "Op0582": {
+    "key": 562,
+    "newKey": 2427,
+    "operation": "change"
+  },
+  "Op0583": {
+    "key": 2427,
+    "newKey": 986,
+    "operation": "change"
+  },
+  "Op0584": {
+    "key": 986,
+    "newKey": 4092,
+    "operation": "change"
+  },
+  "Op0585": {
+    "key": 3586,
+    "newKey": 3979,
+    "operation": "change"
+  },
+  "Op0586": {
+    "key": 3615,
+    "newKey": 1604,
+    "operation": "change"
+  },
+  "Op0587": {
+    "key": 1604,
+    "newKey": 3544,
+    "operation": "change"
+  },
+  "Op0588": {
+    "key": 3544,
+    "newKey": 951,
+    "operation": "change"
+  },
+  "Op0589": {
+    "key": 951,
+    "newKey": 541,
+    "operation": "change"
+  },
+  "Op0590": {
+    "key": 541,
+    "newKey": 3938,
+    "operation": "change"
+  },
+  "Op0591": {
+    "key": 3687,
+    "newKey": 449,
+    "operation": "change"
+  },
+  "Op0592": {
+    "key": 449,
+    "newKey": 3241,
+    "operation": "change"
+  },
+  "Op0593": {
+    "key": 350,
+    "operation": "insert"
+  },
+  "Op0594": {
+    "key": 4997,
+    "operation": "insert"
+  },
+  "Op0595": {
+    "key": 350,
+    "operation": "removeKey"
+  },
+  "Op0596": {
+    "key": 3358,
+    "operation": "insert"
+  },
+  "Op0597": {
+    "key": 3241,
+    "newKey": 3267,
+    "operation": "change"
+  },
+  "Op0598": {
+    "key": 2932,
+    "operation": "insert"
+  },
+  "Op0599": {
+    "key": 2932,
+    "operation": "removeKey"
+  },
+  "Op0600": {
+    "key": 3267,
+    "operation": "removeKey"
+  },
+  "Op0601": {
+    "key": 773,
+    "operation": "insert"
+  },
+  "Op0602": {
+    "key": 773,
+    "operation": "removeKey"
+  },
+  "Op0603": {
+    "key": 3358,
+    "newKey": 1183,
+    "operation": "change"
+  },
+  "Op0604": {
+    "key": 1183,
+    "operation": "removeKey"
+  },
+  "Op0605": {
+    "key": 3710,
+    "newKey": 3695,
+    "operation": "change"
+  },
+  "Op0606": {
+    "key": 3695,
+    "newKey": 3230,
+    "operation": "change"
+  },
+  "Op0607": {
+    "key": 3230,
+    "newKey": 3564,
+    "operation": "change"
+  },
+  "Op0608": {
+    "key": 3564,
+    "newKey": 1133,
+    "operation": "change"
+  },
+  "Op0609": {
+    "key": 1133,
+    "newKey": 814,
+    "operation": "change"
+  },
+  "Op0610": {
+    "key": 2261,
+    "operation": "insert"
+  },
+  "Op0611": {
+    "key": 3345,
+    "operation": "insert"
+  },
+  "Op0612": {
+    "operation": "removeMax"
+  },
+  "Op0613": {
+    "key": 814,
+    "operation": "removeKey"
+  },
+  "Op0614": {
+    "key": 2261,
+    "newKey": 3174,
+    "operation": "change"
+  },
+  "Op0615": {
+    "key": 1831,
+    "operation": "insert"
+  },
+  "Op0616": {
+    "key": 1831,
+    "newKey": 1555,
+    "operation": "change"
+  },
+  "Op0617": {
+    "key": 1555,
+    "newKey": 1876,
+    "operation": "change"
+  },
+  "Op0618": {
+    "key": 1272,
+    "operation": "insert"
+  },
+  "Op0619": {
+    "key": 1994,
+    "operation": "insert"
+  },
+  "Op0620": {
+    "key": 1272,
+    "newKey": 4551,
+    "operation": "change"
+  },
+  "Op0621": {
+    "key": 2586,
+    "operation": "insert"
+  },
+  "Op0622": {
+    "operation": "removeMax"
+  },
+  "Op0623": {
+    "key": 1876,
+    "operation": "removeKey"
+  },
+  "Op0624": {
+    "key": 1994,
+    "newKey": 1372,
+    "operation": "change"
+  },
+  "Op0625": {
+    "key": 4097,
+    "operation": "insert"
+  },
+  "Op0626": {
+    "key": 115,
+    "operation": "insert"
+  },
+  "Op0627": {
+    "key": 115,
+    "operation": "removeKey"
+  },
+  "Op0628": {
+    "operation": "removeMax"
+  },
+  "Op0629": {
+    "operation": "removeMax"
+  },
+  "Op0630": {
+    "operation": "removeMax"
+  },
+  "Op0631": {
+    "key": 1372,
+    "newKey": 2428,
+    "operation": "change"
+  },
+  "Op0632": {
+    "key": 2428,
+    "newKey": 3800,
+    "operation": "change"
+  },
+  "Op0633": {
+    "key": 1625,
+    "operation": "insert"
+  },
+  "Op0634": {
+    "key": 1625,
+    "newKey": 3511,
+    "operation": "change"
+  },
+  "Op0635": {
+    "operation": "removeMax"
+  },
+  "Op0636": {
+    "key": 2586,
+    "newKey": 1731,
+    "operation": "change"
+  },
+  "Op0637": {
+    "key": 1731,
+    "newKey": 2699,
+    "operation": "change"
+  },
+  "Op0638": {
+    "key": 2699,
+    "newKey": 1283,
+    "operation": "change"
+  },
+  "Op0639": {
+    "key": 1283,
+    "newKey": 3246,
+    "operation": "change"
+  },
+  "Op0640": {
+    "key": 3174,
+    "newKey": 3652,
+    "operation": "change"
+  },
+  "Op0641": {
+    "key": 3246,
+    "newKey": 1251,
+    "operation": "change"
+  },
+  "Op0642": {
+    "key": 1823,
+    "operation": "insert"
+  },
+  "Op0643": {
+    "key": 1434,
+    "operation": "insert"
+  },
+  "Op0644": {
+    "key": 1251,
+    "newKey": 436,
+    "operation": "change"
+  },
+  "Op0645": {
+    "operation": "removeMax"
+  },
+  "Op0646": {
+    "operation": "removeMax"
+  },
+  "Op0647": {
+    "key": 436,
+    "newKey": 3181,
+    "operation": "change"
+  },
+  "Op0648": {
+    "key": 2742,
+    "operation": "insert"
+  },
+  "Op0649": {
+    "key": 1434,
+    "operation": "removeKey"
+  },
+  "Op0650": {
+    "key": 1823,
+    "newKey": 3674,
+    "operation": "change"
+  },
+  "Op0651": {
+    "key": 2742,
+    "newKey": 3579,
+    "operation": "change"
+  },
+  "Op0652": {
+    "key": 3181,
+    "newKey": 1790,
+    "operation": "change"
+  },
+  "Op0653": {
+    "key": 1790,
+    "newKey": 3522,
+    "operation": "change"
+  },
+  "Op0654": {
+    "key": 3345,
+    "newKey": 4207,
+    "operation": "change"
+  },
+  "Op0655": {
+    "key": 1092,
+    "operation": "insert"
+  },
+  "Op0656": {
+    "key": 100,
+    "operation": "insert"
+  },
+  "Op0657": {
+    "operation": "removeMax"
+  },
+  "Op0658": {
+    "key": 354,
+    "operation": "insert"
+  },
+  "Op0659": {
+    "operation": "removeMax"
+  },
+  "Op0660": {
+    "operation": "removeMax"
+  },
+  "Op0661": {
+    "key": 100,
+    "newKey": 1554,
+    "operation": "change"
+  },
+  "Op0662": {
+    "key": 354,
+    "newKey": 450,
+    "operation": "change"
+  },
+  "Op0663": {
+    "key": 450,
+    "newKey": 1141,
+    "operation": "change"
+  },
+  "Op0664": {
+    "key": 1092,
+    "newKey": 4861,
+    "operation": "change"
+  },
+  "Op0665": {
+    "key": 1141,
+    "newKey": 4119,
+    "operation": "change"
+  },
+  "Op0666": {
+    "key": 1554,
+    "newKey": 1813,
+    "operation": "change"
+  },
+  "Op0667": {
+    "key": 1813,
+    "newKey": 1720,
+    "operation": "change"
+  },
+  "Op0668": {
+    "key": 1720,
+    "newKey": 3643,
+    "operation": "change"
+  },
+  "Op0669": {
+    "key": 754,
+    "operation": "insert"
+  },
+  "Op0670": {
+    "operation": "removeMax"
+  },
+  "Op0671": {
+    "key": 754,
+    "newKey": 2572,
+    "operation": "change"
+  },
+  "Op0672": {
+    "key": 2572,
+    "newKey": 3188,
+    "operation": "change"
+  },
+  "Op0673": {
+    "key": 3188,
+    "newKey": 3498,
+    "operation": "change"
+  },
+  "Op0674": {
+    "key": 4368,
+    "operation": "insert"
+  },
+  "Op0675": {
+    "operation": "removeMax"
+  },
+  "Op0676": {
+    "key": 3498,
+    "newKey": 116,
+    "operation": "change"
+  },
+  "Op0677": {
+    "key": 116,
+    "newKey": 1409,
+    "operation": "change"
+  },
+  "Op0678": {
+    "key": 1409,
+    "newKey": 3850,
+    "operation": "change"
+  },
+  "Op0679": {
+    "key": 3511,
+    "newKey": 1970,
+    "operation": "change"
+  },
+  "Op0680": {
+    "key": 1970,
+    "newKey": 4635,
+    "operation": "change"
+  },
+  "Op0681": {
+    "key": 3522,
+    "newKey": 4930,
+    "operation": "change"
+  },
+  "Op0682": {
+    "key": 1100,
+    "operation": "insert"
+  },
+  "Op0683": {
+    "key": 1100,
+    "newKey": 4160,
+    "operation": "change"
+  },
+  "Op0684": {
+    "key": 3579,
+    "newKey": 491,
+    "operation": "change"
+  },
+  "Op0685": {
+    "key": 491,
+    "newKey": 277,
+    "operation": "change"
+  },
+  "Op0686": {
+    "key": 277,
+    "newKey": 2351,
+    "operation": "change"
+  },
+  "Op0687": {
+    "key": 2351,
+    "operation": "removeKey"
+  },
+  "Op0688": {
+    "key": 3643,
+    "newKey": 3129,
+    "operation": "change"
+  },
+  "Op0689": {
+    "key": 3129,
+    "newKey": 128,
+    "operation": "change"
+  },
+  "Op0690": {
+    "key": 1380,
+    "operation": "insert"
+  },
+  "Op0691": {
+    "key": 128,
+    "newKey": 1571,
+    "operation": "change"
+  },
+  "Op0692": {
+    "key": 1380,
+    "operation": "removeKey"
+  },
+  "Op0693": {
+    "key": 1571,
+    "newKey": 461,
+    "operation": "change"
+  },
+  "Op0694": {
+    "key": 461,
+    "newKey": 784,
+    "operation": "change"
+  },
+  "Op0695": {
+    "key": 784,
+    "newKey": 3886,
+    "operation": "change"
+  },
+  "Op0696": {
+    "key": 3652,
+    "newKey": 2411,
+    "operation": "change"
+  },
+  "Op0697": {
+    "key": 2411,
+    "newKey": 1156,
+    "operation": "change"
+  },
+  "Op0698": {
+    "key": 4812,
+    "operation": "insert"
+  },
+  "Op0699": {
+    "operation": "removeMax"
+  },
+  "Op0700": {
+    "key": 1014,
+    "operation": "insert"
+  },
+  "Op0701": {
+    "operation": "removeMax"
+  },
+  "Op0702": {
+    "key": 1014,
+    "newKey": 2707,
+    "operation": "change"
+  },
+  "Op0703": {
+    "key": 1156,
+    "newKey": 249,
+    "operation": "change"
+  },
+  "Op0704": {
+    "key": 249,
+    "newKey": 2984,
+    "operation": "change"
+  },
+  "Op0705": {
+    "key": 2707,
+    "newKey": 245,
+    "operation": "change"
+  },
+  "Op0706": {
+    "key": 1497,
+    "operation": "insert"
+  },
+  "Op0707": {
+    "operation": "removeMax"
+  },
+  "Op0708": {
+    "key": 245,
+    "newKey": 2761,
+    "operation": "change"
+  },
+  "Op0709": {
+    "key": 1497,
+    "newKey": 1370,
+    "operation": "change"
+  },
+  "Op0710": {
+    "key": 1370,
+    "newKey": 2762,
+    "operation": "change"
+  },
+  "Op0711": {
+    "key": 2761,
+    "newKey": 2217,
+    "operation": "change"
+  },
+  "Op0712": {
+    "key": 2217,
+    "newKey": 1426,
+    "operation": "change"
+  },
+  "Op0713": {
+    "key": 1426,
+    "newKey": 1400,
+    "operation": "change"
+  },
+  "Op0714": {
+    "key": 1400,
+    "newKey": 2559,
+    "operation": "change"
+  },
+  "Op0715": {
+    "key": 2559,
+    "newKey": 2925,
+    "operation": "change"
+  },
+  "Op0716": {
+    "key": 2762,
+    "newKey": 2094,
+    "operation": "change"
+  },
+  "Op0717": {
+    "key": 2094,
+    "newKey": 4239,
+    "operation": "change"
+  },
+  "Op0718": {
+    "key": 2925,
+    "newKey": 3590,
+    "operation": "change"
+  },
+  "Op0719": {
+    "key": 2984,
+    "newKey": 1503,
+    "operation": "change"
+  },
+  "Op0720": {
+    "key": 1503,
+    "newKey": 1421,
+    "operation": "change"
+  },
+  "Op0721": {
+    "key": 1421,
+    "newKey": 3922,
+    "operation": "change"
+  },
+  "Op0722": {
+    "key": 3590,
+    "newKey": 172,
+    "operation": "change"
+  },
+  "Op0723": {
+    "key": 172,
+    "newKey": 1219,
+    "operation": "change"
+  },
+  "Op0724": {
+    "key": 1219,
+    "newKey": 3206,
+    "operation": "change"
+  },
+  "Op0725": {
+    "key": 3206,
+    "newKey": 148,
+    "operation": "change"
+  },
+  "Op0726": {
+    "key": 148,
+    "newKey": 2640,
+    "operation": "change"
+  },
+  "Op0727": {
+    "key": 2640,
+    "newKey": 56,
+    "operation": "change"
+  },
+  "Op0728": {
+    "key": 3415,
+    "operation": "insert"
+  },
+  "Op0729": {
+    "key": 56,
+    "operation": "removeKey"
+  },
+  "Op0730": {
+    "key": 3415,
+    "newKey": 3689,
+    "operation": "change"
+  },
+  "Op0731": {
+    "key": 99,
+    "operation": "insert"
+  },
+  "Op0732": {
+    "key": 3323,
+    "operation": "insert"
+  },
+  "Op0733": {
+    "key": 99,
+    "operation": "removeKey"
+  },
+  "Op0734": {
+    "key": 2577,
+    "operation": "insert"
+  },
+  "Op0735": {
+    "key": 2577,
+    "operation": "removeKey"
+  },
+  "Op0736": {
+    "key": 3323,
+    "operation": "removeKey"
+  },
+  "Op0737": {
+    "key": 3674,
+    "newKey": 480,
+    "operation": "change"
+  },
+  "Op0738": {
+    "key": 480,
+    "newKey": 3335,
+    "operation": "change"
+  },
+  "Op0739": {
+    "key": 908,
+    "operation": "insert"
+  },
+  "Op0740": {
+    "key": 908,
+    "newKey": 2392,
+    "operation": "change"
+  },
+  "Op0741": {
+    "key": 2392,
+    "newKey": 3538,
+    "operation": "change"
+  },
+  "Op0742": {
+    "operation": "removeMax"
+  },
+  "Op0743": {
+    "key": 3335,
+    "newKey": 4567,
+    "operation": "change"
+  },
+  "Op0744": {
+    "key": 1951,
+    "operation": "insert"
+  },
+  "Op0745": {
+    "key": 1951,
+    "operation": "removeKey"
+  },
+  "Op0746": {
+    "key": 3538,
+    "newKey": 193,
+    "operation": "change"
+  },
+  "Op0747": {
+    "key": 193,
+    "newKey": 2906,
+    "operation": "change"
+  },
+  "Op0748": {
+    "key": 2906,
+    "newKey": 2193,
+    "operation": "change"
+  },
+  "Op0749": {
+    "key": 2193,
+    "newKey": 2660,
+    "operation": "change"
+  },
+  "Op0750": {
+    "key": 2660,
+    "newKey": 950,
+    "operation": "change"
+  },
+  "Op0751": {
+    "key": 950,
+    "newKey": 621,
+    "operation": "change"
+  },
+  "Op0752": {
+    "key": 621,
+    "newKey": 4924,
+    "operation": "change"
+  },
+  "Op0753": {
+    "key": 3689,
+    "newKey": 390,
+    "operation": "change"
+  },
+  "Op0754": {
+    "key": 390,
+    "newKey": 2800,
+    "operation": "change"
+  },
+  "Op0755": {
+    "key": 2800,
+    "newKey": 3690,
+    "operation": "change"
+  },
+  "Op0756": {
+    "key": 3690,
+    "newKey": 1803,
+    "operation": "change"
+  },
+  "Op0757": {
+    "key": 1803,
+    "newKey": 4036,
+    "operation": "change"
+  },
+  "Op0758": {
+    "key": 3754,
+    "newKey": 2660,
+    "operation": "change"
+  },
+  "Op0759": {
+    "key": 3282,
+    "operation": "insert"
+  },
+  "Op0760": {
+    "operation": "removeMax"
+  },
+  "Op0761": {
+    "key": 2660,
+    "newKey": 3055,
+    "operation": "change"
+  },
+  "Op0762": {
+    "key": 3055,
+    "newKey": 3606,
+    "operation": "change"
+  },
+  "Op0763": {
+    "key": 3282,
+    "newKey": 2008,
+    "operation": "change"
+  },
+  "Op0764": {
+    "key": 2008,
+    "newKey": 4094,
+    "operation": "change"
+  },
+  "Op0765": {
+    "key": 3606,
+    "newKey": 3289,
+    "operation": "change"
+  },
+  "Op0766": {
+    "key": 3289,
+    "newKey": 2719,
+    "operation": "change"
+  },
+  "Op0767": {
+    "key": 2260,
+    "operation": "insert"
+  },
+  "Op0768": {
+    "key": 2260,
+    "newKey": 2187,
+    "operation": "change"
+  },
+  "Op0769": {
+    "key": 2187,
+    "newKey": 263,
+    "operation": "change"
+  },
+  "Op0770": {
+    "key": 4647,
+    "operation": "insert"
+  },
+  "Op0771": {
+    "key": 263,
+    "operation": "removeKey"
+  },
+  "Op0772": {
+    "operation": "removeMax"
+  },
+  "Op0773": {
+    "key": 2719,
+    "newKey": 3676,
+    "operation": "change"
+  },
+  "Op0774": {
+    "key": 3676,
+    "newKey": 2462,
+    "operation": "change"
+  },
+  "Op0775": {
+    "key": 3165,
+    "operation": "insert"
+  },
+  "Op0776": {
+    "key": 2462,
+    "operation": "removeKey"
+  },
+  "Op0777": {
+    "key": 3165,
+    "newKey": 4770,
+    "operation": "change"
+  },
+  "Op0778": {
+    "key": 3773,
+    "newKey": 3177,
+    "operation": "change"
+  },
+  "Op0779": {
+    "key": 3177,
+    "newKey": 1367,
+    "operation": "change"
+  },
+  "Op0780": {
+    "key": 1367,
+    "newKey": 1205,
+    "operation": "change"
+  },
+  "Op0781": {
+    "key": 752,
+    "operation": "insert"
+  },
+  "Op0782": {
+    "key": 752,
+    "operation": "removeKey"
+  },
+  "Op0783": {
+    "key": 1205,
+    "newKey": 718,
+    "operation": "change"
+  },
+  "Op0784": {
+    "key": 718,
+    "newKey": 4319,
+    "operation": "change"
+  },
+  "Op0785": {
+    "key": 3787,
+    "newKey": 3004,
+    "operation": "change"
+  },
+  "Op0786": {
+    "key": 3004,
+    "newKey": 4633,
+    "operation": "change"
+  },
+  "Op0787": {
+    "key": 1470,
+    "operation": "insert"
+  },
+  "Op0788": {
+    "key": 1470,
+    "operation": "removeKey"
+  },
+  "Op0789": {
+    "key": 184,
+    "operation": "insert"
+  },
+  "Op0790": {
+    "key": 184,
+    "operation": "removeKey"
+  },
+  "Op0791": {
+    "key": 3798,
+    "newKey": 2116,
+    "operation": "change"
+  },
+  "Op0792": {
+    "key": 2116,
+    "newKey": 248,
+    "operation": "change"
+  },
+  "Op0793": {
+    "key": 1862,
+    "operation": "insert"
+  },
+  "Op0794": {
+    "key": 3301,
+    "operation": "insert"
+  },
+  "Op0795": {
+    "key": 248,
+    "newKey": 518,
+    "operation": "change"
+  },
+  "Op0796": {
+    "key": 518,
+    "newKey": 3230,
+    "operation": "change"
+  },
+  "Op0797": {
+    "key": 2504,
+    "operation": "insert"
+  },
+  "Op0798": {
+    "operation": "removeMax"
+  },
+  "Op0799": {
+    "operation": "removeMax"
+  },
+  "Op0800": {
+    "key": 1862,
+    "operation": "removeKey"
+  },
+  "Op0801": {
+    "key": 2504,
+    "newKey": 2622,
+    "operation": "change"
+  },
+  "Op0802": {
+    "key": 2622,
+    "newKey": 3505,
+    "operation": "change"
+  },
+  "Op0803": {
+    "key": 3230,
+    "newKey": 3288,
+    "operation": "change"
+  },
+  "Op0804": {
+    "key": 4093,
+    "operation": "insert"
+  },
+  "Op0805": {
+    "operation": "removeMax"
+  },
+  "Op0806": {
+    "key": 3846,
+    "operation": "insert"
+  },
+  "Op0807": {
+    "key": 3288,
+    "operation": "removeKey"
+  },
+  "Op0808": {
+    "key": 3301,
+    "newKey": 4915,
+    "operation": "change"
+  },
+  "Op0809": {
+    "key": 3505,
+    "newKey": 2575,
+    "operation": "change"
+  },
+  "Op0810": {
+    "key": 2575,
+    "newKey": 4097,
+    "operation": "change"
+  },
+  "Op0811": {
+    "key": 3846,
+    "newKey": 219,
+    "operation": "change"
+  },
+  "Op0812": {
+    "key": 219,
+    "newKey": 4473,
+    "operation": "change"
+  },
+  "Op0813": {
+    "key": 3850,
+    "newKey": 4058,
+    "operation": "change"
+  },
+  "Op0814": {
+    "key": 3886,
+    "newKey": 3411,
+    "operation": "change"
+  },
+  "Op0815": {
+    "key": 742,
+    "operation": "insert"
+  },
+  "Op0816": {
+    "key": 2902,
+    "operation": "insert"
+  },
+  "Op0817": {
+    "key": 742,
+    "operation": "removeKey"
+  },
+  "Op0818": {
+    "key": 2902,
+    "operation": "removeKey"
+  },
+  "Op0819": {
+    "key": 3411,
+    "newKey": 4298,
+    "operation": "change"
+  },
+  "Op0820": {
+    "key": 1762,
+    "operation": "insert"
+  },
+  "Op0821": {
+    "operation": "removeMax"
+  },
+  "Op0822": {
+    "key": 3557,
+    "operation": "insert"
+  },
+  "Op0823": {
+    "operation": "removeMax"
+  },
+  "Op0824": {
+    "key": 1846,
+    "operation": "insert"
+  },
+  "Op0825": {
+    "key": 1762,
+    "operation": "removeKey"
+  },
+  "Op0826": {
+    "key": 1846,
+    "newKey": 773,
+    "operation": "change"
+  },
+  "Op0827": {
+    "key": 773,
+    "newKey": 1508,
+    "operation": "change"
+  },
+  "Op0828": {
+    "key": 4221,
+    "operation": "insert"
+  },
+  "Op0829": {
+    "key": 1508,
+    "operation": "removeKey"
+  },
+  "Op0830": {
+    "key": 4706,
+    "operation": "insert"
+  },
+  "Op0831": {
+    "key": 3557,
+    "operation": "removeKey"
+  },
+  "Op0832": {
+    "key": 3922,
+    "newKey": 2444,
+    "operation": "change"
+  },
+  "Op0833": {
+    "key": 2444,
+    "newKey": 1391,
+    "operation": "change"
+  },
+  "Op0834": {
+    "key": 1391,
+    "newKey": 1718,
+    "operation": "change"
+  },
+  "Op0835": {
+    "key": 615,
+    "operation": "insert"
+  },
+  "Op0836": {
+    "key": 615,
+    "newKey": 3309,
+    "operation": "change"
+  },
+  "Op0837": {
+    "key": 1718,
+    "operation": "removeKey"
+  },
+  "Op0838": {
+    "key": 3309,
+    "newKey": 4231,
+    "operation": "change"
+  },
+  "Op0839": {
+    "key": 4036,
+    "newKey": 2715,
+    "operation": "change"
+  },
+  "Op0840": {
+    "key": 2715,
+    "newKey": 646,
+    "operation": "change"
+  },
+  "Op0841": {
+    "key": 646,
+    "newKey": 3362,
+    "operation": "change"
+  },
+  "Op0842": {
+    "key": 3627,
+    "operation": "insert"
+  },
+  "Op0843": {
+    "key": 3362,
+    "newKey": 3273,
+    "operation": "change"
+  },
+  "Op0844": {
+    "key": 3273,
+    "newKey": 2701,
+    "operation": "change"
+  },
+  "Op0845": {
+    "key": 262,
+    "operation": "insert"
+  },
+  "Op0846": {
+    "operation": "removeMax"
+  },
+  "Op0847": {
+    "key": 262,
+    "operation": "removeKey"
+  },
+  "Op0848": {
+    "key": 2701,
+    "newKey": 920,
+    "operation": "change"
+  },
+  "Op0849": {
+    "key": 920,
+    "newKey": 1214,
+    "operation": "change"
+  },
+  "Op0850": {
+    "key": 1825,
+    "operation": "insert"
+  },
+  "Op0851": {
+    "operation": "removeMax"
+  },
+  "Op0852": {
+    "key": 1214,
+    "newKey": 2261,
+    "operation": "change"
+  },
+  "Op0853": {
+    "key": 1825,
+    "newKey": 4552,
+    "operation": "change"
+  },
+  "Op0854": {
+    "key": 2261,
+    "newKey": 3212,
+    "operation": "change"
+  },
+  "Op0855": {
+    "key": 4255,
+    "operation": "insert"
+  },
+  "Op0856": {
+    "key": 3511,
+    "operation": "insert"
+  },
+  "Op0857": {
+    "operation": "removeMax"
+  },
+  "Op0858": {
+    "key": 3212,
+    "newKey": 1534,
+    "operation": "change"
+  },
+  "Op0859": {
+    "key": 1211,
+    "operation": "insert"
+  },
+  "Op0860": {
+    "operation": "removeMax"
+  },
+  "Op0861": {
+    "key": 1842,
+    "operation": "insert"
+  },
+  "Op0862": {
+    "operation": "removeMax"
+  },
+  "Op0863": {
+    "key": 4172,
+    "operation": "insert"
+  },
+  "Op0864": {
+    "key": 4060,
+    "operation": "insert"
+  },
+  "Op0865": {
+    "key": 1211,
+    "operation": "removeKey"
+  },
+  "Op0866": {
+    "key": 1534,
+    "newKey": 3146,
+    "operation": "change"
+  },
+  "Op0867": {
+    "key": 1842,
+    "operation": "removeKey"
+  },
+  "Op0868": {
+    "key": 665,
+    "operation": "insert"
+  },
+  "Op0869": {
+    "key": 665,
+    "operation": "removeKey"
+  },
+  "Op0870": {
+    "operation": "removeMax"
+  },
+  "Op0871": {
+    "key": 1066,
+    "operation": "insert"
+  },
+  "Op0872": {
+    "key": 1066,
+    "newKey": 1554,
+    "operation": "change"
+  },
+  "Op0873": {
+    "operation": "removeMax"
+  },
+  "Op0874": {
+    "key": 1554,
+    "newKey": 2904,
+    "operation": "change"
+  },
+  "Op0875": {
+    "key": 2904,
+    "newKey": 2477,
+    "operation": "change"
+  },
+  "Op0876": {
+    "key": 2477,
+    "newKey": 3904,
+    "operation": "change"
+  },
+  "Op0877": {
+    "key": 3146,
+    "newKey": 119,
+    "operation": "change"
+  },
+  "Op0878": {
+    "key": 1919,
+    "operation": "insert"
+  },
+  "Op0879": {
+    "key": 119,
+    "newKey": 1714,
+    "operation": "change"
+  },
+  "Op0880": {
+    "operation": "removeMax"
+  },
+  "Op0881": {
+    "key": 2263,
+    "operation": "insert"
+  },
+  "Op0882": {
+    "operation": "removeMax"
+  },
+  "Op0883": {
+    "key": 1714,
+    "newKey": 307,
+    "operation": "change"
+  },
+  "Op0884": {
+    "key": 4375,
+    "operation": "insert"
+  },
+  "Op0885": {
+    "key": 307,
+    "newKey": 704,
+    "operation": "change"
+  },
+  "Op0886": {
+    "key": 704,
+    "newKey": 2618,
+    "operation": "change"
+  },
+  "Op0887": {
+    "key": 1919,
+    "newKey": 4713,
+    "operation": "change"
+  },
+  "Op0888": {
+    "operation": "removeMax"
+  },
+  "Op0889": {
+    "key": 2263,
+    "newKey": 3018,
+    "operation": "change"
+  },
+  "Op0890": {
+    "key": 3493,
+    "operation": "insert"
+  },
+  "Op0891": {
+    "key": 2618,
+    "newKey": 2332,
+    "operation": "change"
+  },
+  "Op0892": {
+    "key": 2332,
+    "operation": "removeKey"
+  },
+  "Op0893": {
+    "key": 3018,
+    "newKey": 372,
+    "operation": "change"
+  },
+  "Op0894": {
+    "key": 372,
+    "newKey": 26,
+    "operation": "change"
+  },
+  "Op0895": {
+    "key": 26,
+    "newKey": 3130,
+    "operation": "change"
+  },
+  "Op0896": {
+    "key": 3130,
+    "newKey": 3925,
+    "operation": "change"
+  },
+  "Op0897": {
+    "key": 3493,
+    "newKey": 1665,
+    "operation": "change"
+  },
+  "Op0898": {
+    "key": 1665,
+    "newKey": 1173,
+    "operation": "change"
+  },
+  "Op0899": {
+    "key": 1173,
+    "newKey": 4956,
+    "operation": "change"
+  },
+  "Op0900": {
+    "key": 3511,
+    "newKey": 4142,
+    "operation": "change"
+  },
+  "Op0901": {
+    "key": 3627,
+    "newKey": 605,
+    "operation": "change"
+  },
+  "Op0902": {
+    "key": 605,
+    "newKey": 3296,
+    "operation": "change"
+  },
+  "Op0903": {
+    "key": 3835,
+    "operation": "insert"
+  },
+  "Op0904": {
+    "key": 3296,
+    "newKey": 456,
+    "operation": "change"
+  },
+  "Op0905": {
+    "key": 589,
+    "operation": "insert"
+  },
+  "Op0906": {
+    "key": 456,
+    "operation": "removeKey"
+  },
+  "Op0907": {
+    "operation": "removeMax"
+  },
+  "Op0908": {
+    "key": 589,
+    "newKey": 1699,
+    "operation": "change"
+  },
+  "Op0909": {
+    "key": 1699,
+    "newKey": 2139,
+    "operation": "change"
+  },
+  "Op0910": {
+    "key": 2139,
+    "newKey": 908,
+    "operation": "change"
+  },
+  "Op0911": {
+    "key": 908,
+    "newKey": 433,
+    "operation": "change"
+  },
+  "Op0912": {
+    "key": 3097,
+    "operation": "insert"
+  },
+  "Op0913": {
+    "key": 433,
+    "operation": "removeKey"
+  },
+  "Op0914": {
+    "key": 3097,
+    "newKey": 1711,
+    "operation": "change"
+  },
+  "Op0915": {
+    "key": 1711,
+    "newKey": 3668,
+    "operation": "change"
+  },
+  "Op0916": {
+    "key": 3668,
+    "newKey": 3098,
+    "operation": "change"
+  },
+  "Op0917": {
+    "key": 3098,
+    "newKey": 4919,
+    "operation": "change"
+  },
+  "Op0918": {
+    "key": 3835,
+    "newKey": 1423,
+    "operation": "change"
+  },
+  "Op0919": {
+    "key": 1423,
+    "newKey": 2188,
+    "operation": "change"
+  },
+  "Op0920": {
+    "key": 2188,
+    "newKey": 2273,
+    "operation": "change"
+  },
+  "Op0921": {
+    "key": 2273,
+    "newKey": 272,
+    "operation": "change"
+  },
+  "Op0922": {
+    "key": 3572,
+    "operation": "insert"
+  },
+  "Op0923": {
+    "operation": "removeMax"
+  },
+  "Op0924": {
+    "key": 878,
+    "operation": "insert"
+  },
+  "Op0925": {
+    "operation": "removeMax"
+  },
+  "Op0926": {
+    "key": 272,
+    "newKey": 2837,
+    "operation": "change"
+  },
+  "Op0927": {
+    "key": 878,
+    "newKey": 2567,
+    "operation": "change"
+  },
+  "Op0928": {
+    "key": 2567,
+    "newKey": 4303,
+    "operation": "change"
+  },
+  "Op0929": {
+    "key": 2837,
+    "newKey": 4382,
+    "operation": "change"
+  },
+  "Op0930": {
+    "key": 3572,
+    "newKey": 2461,
+    "operation": "change"
+  },
+  "Op0931": {
+    "key": 2461,
+    "newKey": 1698,
+    "operation": "change"
+  },
+  "Op0932": {
+    "key": 2928,
+    "operation": "insert"
+  },
+  "Op0933": {
+    "key": 1843,
+    "operation": "insert"
+  },
+  "Op0934": {
+    "operation": "removeMax"
+  },
+  "Op0935": {
+    "key": 1698,
+    "operation": "removeKey"
+  },
+  "Op0936": {
+    "key": 1843,
+    "newKey": 692,
+    "operation": "change"
+  },
+  "Op0937": {
+    "key": 692,
+    "newKey": 4622,
+    "operation": "change"
+  },
+  "Op0938": {
+    "key": 2928,
+    "newKey": 3459,
+    "operation": "change"
+  },
+  "Op0939": {
+    "key": 3459,
+    "newKey": 924,
+    "operation": "change"
+  },
+  "Op0940": {
+    "key": 924,
+    "newKey": 2026,
+    "operation": "change"
+  },
+  "Op0941": {
+    "key": 2026,
+    "newKey": 424,
+    "operation": "change"
+  },
+  "Op0942": {
+    "key": 424,
+    "newKey": 1584,
+    "operation": "change"
+  },
+  "Op0943": {
+    "key": 2914,
+    "operation": "insert"
+  },
+  "Op0944": {
+    "key": 1584,
+    "newKey": 3023,
+    "operation": "change"
+  },
+  "Op0945": {
+    "operation": "removeMax"
+  },
+  "Op0946": {
+    "key": 2509,
+    "operation": "insert"
+  },
+  "Op0947": {
+    "key": 2509,
+    "operation": "removeKey"
+  },
+  "Op0948": {
+    "key": 2914,
+    "newKey": 3607,
+    "operation": "change"
+  },
+  "Op0949": {
+    "key": 3023,
+    "newKey": 368,
+    "operation": "change"
+  },
+  "Op0950": {
+    "key": 368,
+    "newKey": 2192,
+    "operation": "change"
+  },
+  "Op0951": {
+    "key": 2192,
+    "newKey": 3182,
+    "operation": "change"
+  },
+  "Op0952": {
+    "key": 3182,
+    "newKey": 2415,
+    "operation": "change"
+  },
+  "Op0953": {
+    "key": 430,
+    "operation": "insert"
+  },
+  "Op0954": {
+    "key": 430,
+    "operation": "removeKey"
+  },
+  "Op0955": {
+    "key": 2415,
+    "newKey": 823,
+    "operation": "change"
+  },
+  "Op0956": {
+    "key": 823,
+    "newKey": 355,
+    "operation": "change"
+  },
+  "Op0957": {
+    "key": 355,
+    "newKey": 883,
+    "operation": "change"
+  },
+  "Op0958": {
+    "key": 883,
+    "newKey": 4316,
+    "operation": "change"
+  },
+  "Op0959": {
+    "key": 3607,
+    "newKey": 1766,
+    "operation": "change"
+  },
+  "Op0960": {
+    "key": 1766,
+    "newKey": 4642,
+    "operation": "change"
+  },
+  "Op0961": {
+    "key": 3904,
+    "newKey": 1707,
+    "operation": "change"
+  },
+  "Op0962": {
+    "key": 1707,
+    "newKey": 37,
+    "operation": "change"
+  },
+  "Op0963": {
+    "key": 37,
+    "newKey": 1974,
+    "operation": "change"
+  },
+  "Op0964": {
+    "key": 1974,
+    "newKey": 3861,
+    "operation": "change"
+  },
+  "Op0965": {
+    "key": 3861,
+    "newKey": 1695,
+    "operation": "change"
+  },
+  "Op0966": {
+    "key": 1695,
+    "newKey": 4340,
+    "operation": "change"
+  },
+  "Op0967": {
+    "key": 3925,
+    "newKey": 1100,
+    "operation": "change"
+  },
+  "Op0968": {
+    "key": 3581,
+    "operation": "insert"
+  },
+  "Op0969": {
+    "key": 1100,
+    "newKey": 1912,
+    "operation": "change"
+  },
+  "Op0970": {
+    "operation": "removeMax"
+  },
+  "Op0971": {
+    "key": 563,
+    "operation": "insert"
+  },
+  "Op0972": {
+    "key": 1164,
+    "operation": "insert"
+  },
+  "Op0973": {
+    "operation": "removeMax"
+  },
+  "Op0974": {
+    "key": 729,
+    "operation": "insert"
+  },
+  "Op0975": {
+    "key": 2705,
+    "operation": "insert"
+  },
+  "Op0976": {
+    "key": 563,
+    "newKey": 3631,
+    "operation": "change"
+  },
+  "Op0977": {
+    "operation": "removeMax"
+  },
+  "Op0978": {
+    "operation": "removeMax"
+  },
+  "Op0979": {
+    "key": 729,
+    "newKey": 1010,
+    "operation": "change"
+  },
+  "Op0980": {
+    "key": 899,
+    "operation": "insert"
+  },
+  "Op0981": {
+    "operation": "removeMax"
+  },
+  "Op0982": {
+    "operation": "removeMax"
+  },
+  "Op0983": {
+    "key": 899,
+    "newKey": 2558,
+    "operation": "change"
+  },
+  "Op0984": {
+    "key": 1010,
+    "newKey": 624,
+    "operation": "change"
+  },
+  "Op0985": {
+    "key": 624,
+    "newKey": 825,
+    "operation": "change"
+  },
+  "Op0986": {
+    "key": 825,
+    "newKey": 2318,
+    "operation": "change"
+  },
+  "Op0987": {
+    "key": 1312,
+    "operation": "insert"
+  },
+  "Op0988": {
+    "operation": "removeMax"
+  },
+  "Op0989": {
+    "key": 1164,
+    "newKey": 2813,
+    "operation": "change"
+  },
+  "Op0990": {
+    "key": 1312,
+    "newKey": 1743,
+    "operation": "change"
+  },
+  "Op0991": {
+    "key": 2669,
+    "operation": "insert"
+  },
+  "Op0992": {
+    "operation": "removeMax"
+  },
+  "Op0993": {
+    "key": 1743,
+    "newKey": 2241,
+    "operation": "change"
+  },
+  "Op0994": {
+    "key": 343,
+    "operation": "insert"
+  },
+  "Op0995": {
+    "operation": "removeMax"
+  },
+  "Op0996": {
+    "key": 343,
+    "newKey": 950,
+    "operation": "change"
+  },
+  "Op0997": {
+    "key": 950,
+    "newKey": 1,
+    "operation": "change"
+  },
+  "Op0998": {
+    "key": 9,
+    "newKey": 2459,
+    "operation": "change"
+  },
+  "Op0999": {
+    "key": 1912,
+    "newKey": 3673,
+    "operation": "change"
+  },
+  "Op1000": {
+    "key": 2377,
+    "operation": "insert"
+  },
+  "metadata": {
+    "maxHeapSize": 50,
+    "numOperations": 1000
+  }
+}

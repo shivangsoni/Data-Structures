@@ -1,0 +1,92 @@
+{
+  "Op01": {
+    "key": 1505,
+    "operation": "insert"
+  },
+  "Op02": {
+    "key": 2317,
+    "operation": "insert"
+  },
+  "Op03": {
+    "key": 1601,
+    "operation": "insert"
+  },
+  "Op04": {
+    "key": 1601,
+    "operation": "removeKey"
+  },
+  "Op05": {
+    "key": 2317,
+    "newKey": 3836,
+    "operation": "change"
+  },
+  "Op06": {
+    "key": 3836,
+    "newKey": 1440,
+    "operation": "change"
+  },
+  "Op07": {
+    "key": 4742,
+    "operation": "insert"
+  },
+  "Op08": {
+    "key": 651,
+    "operation": "insert"
+  },
+  "Op09": {
+    "operation": "removeMax"
+  },
+  "Op10": {
+    "operation": "removeMax"
+  },
+  "Op11": {
+    "key": 1440,
+    "newKey": 4517,
+    "operation": "change"
+  },
+  "Op12": {
+    "key": 67,
+    "operation": "insert"
+  },
+  "Op13": {
+    "key": 651,
+    "newKey": 1914,
+    "operation": "change"
+  },
+  "Op14": {
+    "key": 1914,
+    "newKey": 648,
+    "operation": "change"
+  },
+  "Op15": {
+    "key": 3239,
+    "operation": "insert"
+  },
+  "Op16": {
+    "key": 648,
+    "newKey": 4591,
+    "operation": "change"
+  },
+  "Op17": {
+    "key": 3239,
+    "newKey": 3857,
+    "operation": "change"
+  },
+  "Op18": {
+    "key": 3857,
+    "operation": "removeKey"
+  },
+  "Op19": {
+    "key": 4517,
+    "operation": "removeKey"
+  },
+  "Op20": {
+    "key": 4591,
+    "newKey": 1611,
+    "operation": "change"
+  },
+  "metadata": {
+    "maxHeapSize": 4,
+    "numOperations": 20
+  }
+}
